@@ -1,0 +1,961 @@
+,MobileName,CompanyName,Stars,Ratings,Reviews,Discount_Price,Actual_Price,Discount,RAM_IN_GB,Internal_Storage,Expandable_Upto,Display_In_Inch,Main_Camera,Battery,Processor,Exchange_Off
+0,"REDMI 9i (Nature Green, 64 GB)",REDMI,4.3,"2,55,535","14,521","7,999","9,999",20,4,64,512 GB,6.53,13,5000,MediaTek Helio G25,
+1,"realme C20 (Cool Grey, 32 GB)",realme,4.6,"4,575",170,"6,799","7,999",15,2,32,256 GB,6.5,8,5000,MediaTek Helio G35,"6,250"
+2,"realme C20 (Cool Blue, 32 GB)",realme,4.6,"4,575",170,"6,799","7,999",15,2,32,256 GB,6.5,8,5000,MediaTek Helio G35,"6,250"
+3,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+4,"REDMI 9i (Midnight Black, 64 GB)",REDMI,4.3,"2,55,535","14,521","7,999","9,999",20,4,64,512 GB,6.53,13,5000,MediaTek Helio G25,
+5,"REDMI 9i (Sea Blue, 64 GB)",REDMI,4.3,"2,55,535","14,521","7,999","9,999",20,4,64,512 GB,6.53,13,5000,MediaTek Helio G25,
+6,"OPPO A12 (Blue, 64 GB)",OPPO,4.4,"14,540",727,"8,990","11,990",25,4,64,256 GB,6.22,13,4230,MediaTek Helio P35,
+7,"OPPO A12 (Deep Blue, 64 GB)",OPPO,4.4,"14,540",727,"8,990","11,990",25,4,64,256 GB,6.22,13,4230,MediaTek Helio P35,
+8,"OPPO A12 (Deep Blue, 32 GB)",OPPO,4.3,"29,741","2,167","7,990","10,990",27,3,32,256 GB,6.22,13,4230,MediaTek Helio P35,
+9,"OPPO A12 (Black, 32 GB)",OPPO,4.3,"29,741","2,167","7,990","10,990",27,3,32,256 GB,6.22,13,4230,MediaTek Helio P35,
+10,"OPPO A12 (Blue, 32 GB)",OPPO,4.3,"29,741","2,167","7,990","10,990",27,3,32,256 GB,6.22,13,4230,MediaTek Helio P35,
+11,"POCO M3 (Cool Blue, 128 GB)",POCO,4.3,"92,792","7,304","11,999","14,999",20,6,128,512 GB,6.53,48,6000,Qualcomm Snapdragon 662,
+12,"POCO M3 (Cool Blue, 64 GB)",POCO,4.3,"92,792","7,304","10,999","12,999",15,6,64,512 GB,6.53,48,6000,Qualcomm Snapdragon 662,
+13,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+14,"POCO M3 (Power Black, 128 GB)",POCO,4.3,"92,792","7,304","11,999","14,999",20,6,128,512 GB,6.53,48,6000,Qualcomm Snapdragon 662,
+15,"POCO M3 (Yellow, 64 GB)",POCO,4.3,"92,792","7,304","10,999","12,999",15,6,64,512 GB,6.53,48,6000,Qualcomm Snapdragon 662,
+16,"realme C12 (Power Silver, 32 GB)",realme,4.4,"2,59,691","15,948","7,999","10,999",27,3,32,256 GB,6.52,13,6000,Mediatek Helio G35,
+17,"realme C12 (Power Blue, 32 GB)",realme,4.4,"2,59,691","15,948","7,999","10,999",27,3,32,256 GB,6.52,13,6000,Mediatek Helio G35,
+18,"OPPO A12 (Flowing Silver, 32 GB)",OPPO,4.3,"29,741","2,167","7,990","10,990",27,3,32,256 GB,6.22,13,4230,MediaTek Helio P35,
+19,"realme Narzo 30A (Laser Black, 64 GB)",realme,4.4,"19,856","1,245","9,499","10,999",13,4,64,256 GB,6.51,13,6000,MediaTek Helio G85,
+20,"realme Narzo 30A (Laser Black, 32 GB)",realme,4.4,"14,269",904,"8,499","9,999",15,3,32,256 GB,6.51,13,6000,MediaTek Helio G85,
+21,"POCO X3 Pro (Steel Blue, 128 GB)",POCO,4.5,"3,465",395,"18,999","23,999",20,6,128,1 TB,6.67,48,5160,Qualcomm Snapdragon 860,"16,500"
+22,"APPLE iPhone 11 (Black, 64 GB)",APPLE,4.6,"49,808","3,795","46,999","54,900",14,,64,,6.1,12,,A13 Bionic Chip,"16,500"
+23,"realme Narzo 20 (Victory Blue, 64 GB)",realme,4.3,"3,86,863","30,233","10,499","12,999",19,4,64,256 GB,6.52,48,6000,MediaTek Helio G85,
+24,"POCO X3 Pro (Graphite Black, 128 GB)",POCO,4.5,"3,370",388,"18,999","23,999",20,6,128,1 TB,6.67,48,5160,Qualcomm Snapdragon 860,"16,500"
+25,"POCO C3 (Arctic Blue, 32 GB)",POCO,4.3,"2,10,605","14,762","7,499","9,999",25,3,32,512 GB,6.53,13,5000,Mediatek Helio G35,"6,900"
+26,"Infinix Smart 5 (Aegean Blue, 32 GB)",Infinix,4.4,"13,730","1,124","7,199","8,999",20,2,32,256 GB,6.82,13,6000,MediaTek Helio G25,"6,600"
+27,"Infinix Smart 5 (Morandi Green, 32 GB)",Infinix,4.4,"13,730","1,124","7,199","8,999",20,2,32,256 GB,6.82,13,6000,MediaTek Helio G25,"6,600"
+28,"Infinix Smart 5 (7° Purple, 32 GB)",Infinix,4.4,"13,730","1,124","7,199","8,999",20,2,32,256 GB,6.82,13,6000,MediaTek Helio G25,"6,600"
+29,"I Kall K 320 (Purple, 64 GB)",I,3.2,"2,333",199,"6,499","6,799",4,4,64,,6.53,13,4000,,
+30,"Redmi 9 Prime (Space Blue, 64 GB)",Redmi,4.4,"93,668","6,291","9,999","11,999",16,4,64,512 GB,6.53,13,5020,MediaTek Helio G80,"9,350"
+31,"realme Narzo 30A (Laser Blue, 32 GB)",realme,4.4,"14,151",896,"8,499","9,999",15,3,32,256 GB,6.51,13,6000,MediaTek Helio G85,"7,950"
+32,"realme Narzo 30A (Laser Blue, 64 GB)",realme,4.4,"19,688","1,234","9,499","10,999",13,4,64,256 GB,6.51,13,6000,MediaTek Helio G85,"8,900"
+33,"I Kall K475 (Black, 64 GB)",I,2.8,73,9,"6,499","6,499",0,4,64,,6.53,13,4000,,
+34,"realme 7i (Fusion Green, 64 GB)",realme,4.3,"2,64,046","19,438","11,999","13,999",14,4,64,256 GB,6.5,64,5000,Qualcomm Snapdragon 662,"11,200"
+35,"APPLE iPhone 11 (White, 64 GB)",APPLE,4.6,"49,697","3,785","51,999","54,900",5,,64,,6.1,12,,A13 Bionic Chip,"16,500"
+36,"realme Narzo 20 (Victory Blue, 128 GB)",realme,4.3,"3,86,676","30,220","11,499","13,999",17,4,128,256 GB,6.52,48,6000,MediaTek Helio G85,"10,850"
+37,"realme Narzo 20 (Glory Silver, 128 GB)",realme,4.3,"3,86,676","30,220","11,499","13,999",17,4,128,256 GB,6.52,48,6000,MediaTek Helio G85,"10,850"
+38,"realme 7 (Mist Blue, 128 GB)",realme,4.3,"74,197","7,272","15,499","20,999",26,8,128,256 GB,6.5,64,5000,MediaTek Helio G95,"14,950"
+39,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+40,"realme 7 (Mist White, 64 GB)",realme,4.3,"2,33,163","22,938","13,499","17,999",25,6,64,256 GB,6.5,64,5000,MediaTek Helio G95,"12,650"
+41,"realme 7 (Mist Blue, 64 GB)",realme,4.3,"2,33,163","22,938","13,499","17,999",25,6,64,256 GB,6.5,64,5000,MediaTek Helio G95,"12,650"
+42,"Redmi 9 Prime (Mint Green, 64 GB)",Redmi,4.4,"93,668","6,291","9,999","11,999",16,4,64,512 GB,6.53,13,5020,MediaTek Helio G80,"9,350"
+43,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+44,"POCO C3 (Lime Green, 32 GB)",POCO,4.3,"2,10,605","14,762","7,499","9,999",25,3,32,512 GB,6.53,13,5000,Mediatek Helio G35,"6,900"
+45,"GIONEE Max (Royal Blue, 32 GB)",GIONEE,4.1,"59,269","5,711","5,499","7,990",31,2,32,256 GB,6.1,13,5000,Octa Core,"4,950"
+46,"GIONEE Max (Red, 32 GB)",GIONEE,4.1,"59,269","5,711","5,499","7,990",31,2,32,256 GB,6.1,13,5000,Octa Core,"4,950"
+47,"APPLE iPhone 11 (Purple, 64 GB)",APPLE,4.6,"49,697","3,785","51,999","54,900",5,,64,,6.1,12,,A13 Bionic Chip,"16,500"
+48,"realme C21 (Cross Black, 64 GB)",realme,4.4,"1,441",81,"8,999","10,999",18,4,64,256 GB,6.5,13,5000,MediaTek Helio G35,"8,450"
+49,"I Kall K 320 (Purple, 64 GB)",I,3.2,"2,333",199,"6,499","6,799",4,4,64,,6.53,13,4000,,
+50,"Redmi 9 Prime (Matte Black, 64 GB)",Redmi,4.4,"93,668","6,291","9,999","11,999",16,4,64,512 GB,6.53,13,5020,MediaTek Helio G80,"9,350"
+51,"POCO X3 Pro (Steel Blue, 128 GB)",POCO,4.4,"1,245",164,"20,999","25,999",19,8,128,1 TB,6.67,48,5160,Qualcomm Snapdragon 860,"16,500"
+52,"realme 7i (Fusion Green, 128 GB)",realme,4.3,"2,64,046","19,438","12,999","14,999",13,4,128,256 GB,6.5,64,5000,Qualcomm Snapdragon 662,"12,150"
+53,"I Kall K475 (Black, 64 GB)",I,2.8,73,9,"6,499","6,499",0,4,64,,6.53,13,4000,,
+54,"realme 7i (Fusion Blue, 64 GB)",realme,4.3,"2,64,046","19,438","11,999","13,999",14,4,64,256 GB,6.5,64,5000,Qualcomm Snapdragon 662,"11,200"
+55,"GIONEE Max (Black, 32 GB)",GIONEE,4.1,"59,269","5,711","5,499","7,990",31,2,32,256 GB,6.1,13,5000,Octa Core,"4,950"
+56,"REDMI 9 Power (Blazing Blue, 64 GB)",REDMI,4.3,"15,685","1,221","10,499","13,999",25,4,64,,6.53,48,6000,Qualcomm Snapdragon 662,"9,950"
+57,"Infinix Smart HD 2021 (Quartz Green, 32 GB)",Infinix,4.4,"33,873","2,178","6,499","7,999",18,2,32,256 GB,6.1,8,5000,MediaTek Helio A20,"5,950"
+58,"Infinix Smart HD 2021 (Topaz Blue, 32 GB)",Infinix,4.4,"33,873","2,178","6,499","7,999",18,2,32,256 GB,6.1,8,5000,MediaTek Helio A20,"5,950"
+59,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+60,"Infinix Smart HD 2021 (Obsidian Black, 32 GB)",Infinix,4.4,"33,873","2,178","6,499","7,999",18,2,32,256 GB,6.1,8,5000,MediaTek Helio A20,"5,950"
+61,"POCO X3 (Cobalt Blue, 64 GB)",POCO,4.4,"1,60,021","15,906","14,999","19,999",25,6,64,512 GB,6.67,64,6000,Qualcomm Snapdragon 732G,"14,450"
+62,"realme Narzo 20 Pro (Black Ninja, 64 GB)",realme,4.3,"86,088","6,806","12,999","16,999",23,6,64,256 GB,6.5,48,4500,MediaTek Helio G95,"12,150"
+63,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+64,"Infinix Hot 10 (Moonlight Jade, 64 GB)",Infinix,4.4,"55,071","4,459","9,499","11,999",20,4,64,256 GB,6.78,16,5200,MediaTek Helio G70,"8,900"
+65,"Infinix Hot 10 (Amber Red, 64 GB)",Infinix,4.4,"55,071","4,459","9,499","11,999",20,4,64,256 GB,6.78,16,5200,MediaTek Helio G70,"8,900"
+66,"Infinix Hot 10 (Ocean Wave, 64 GB)",Infinix,4.4,"55,071","4,459","9,499","11,999",20,4,64,256 GB,6.78,16,5200,MediaTek Helio G70,"8,900"
+67,"Infinix Hot 10 (Obsidian Black, 64 GB)",Infinix,4.4,"55,071","4,459","9,499","11,999",20,4,64,256 GB,6.78,16,5200,MediaTek Helio G70,"8,900"
+68,"realme C25 (Watery Blue, 128 GB)",realme,4.6,"1,077",47,"10,999","11,999",8,4,128,256 GB,6.5,13,6000,MediaTek Helio G70,"10,350"
+69,"I Kall K450 (Blue, 16 GB)",I,3.4,140,8,"4,199","4,199",0,2,16,,5.5,5,2500,,
+70,"realme C25 (Watery Grey, 64 GB)",realme,4.6,"1,077",47,"9,999","10,999",9,4,64,256 GB,6.5,13,6000,MediaTek Helio G70,"9,350"
+71,"Redmi 9 Prime (Sunrise Flare, 64 GB)",Redmi,4.4,"93,668","6,291","9,999","11,999",16,4,64,512 GB,6.53,13,5020,MediaTek Helio G80,"9,350"
+72,"REDMI Note 10 (Shadow Black, 64 GB)",REDMI,4.4,437,36,"12,848","13,400",4,4,64,512 GB,6.43,48,5000,Qualcomm Snapdragon 678,
+73,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+74,"Infinix Smart 4 Plus (Violet, 32 GB)",Infinix,4.4,"1,49,226","12,823","7,999","9,999",20,3,32,256 GB,6.82,13,6000,Mediatek Helio A25,
+75,"Infinix Smart 4 Plus (Quetzal Cyan, 32 GB)",Infinix,4.4,"1,49,226","12,823","7,999","9,999",20,3,32,256 GB,6.82,13,6000,Mediatek Helio A25,
+76,"POCO X3 (Cobalt Blue, 128 GB)",POCO,4.4,"1,60,173","15,925","16,999","20,999",19,6,128,512 GB,6.67,64,6000,Qualcomm Snapdragon 732G,"15,650"
+77,"POCO X3 (Shadow Gray, 64 GB)",POCO,4.4,"1,60,173","15,925","14,999","19,999",25,6,64,512 GB,6.67,64,6000,Qualcomm Snapdragon 732G,"14,450"
+78,"Infinix Hot 10 (Ocean Wave, 128 GB)",Infinix,4.3,"64,865","6,656","10,999","13,999",21,6,128,256 GB,6.78,16,5200,MediaTek Helio G70,
+79,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+80,"POCO X3 (Shadow Gray, 128 GB)",POCO,4.4,"1,60,173","15,925","16,999","20,999",19,6,128,512 GB,6.67,64,6000,Qualcomm Snapdragon 732G,"15,650"
+81,"SAMSUNG Galaxy F12 (Sky Blue, 64 GB)",SAMSUNG,4.3,"4,442",452,"10,999","12,999",15,4,64,512 GB,6.515,48,6000,Exynos 850,
+82,"REDMI 9 Power (Mighty Black, 64 GB)",REDMI,4.3,"15,765","1,230","10,499","13,999",25,4,64,,6.53,48,6000,Qualcomm Snapdragon 662,
+83,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+84,"realme Narzo 30 Pro 5G (Sword Black, 64 GB)",realme,4.4,"9,834",853,"16,999","18,999",10,6,64,256 GB,6.5,48,5000,MediaTek Dimensity 800U,"16,150"
+85,"realme Narzo 30 Pro 5G (Blade Silver, 64 GB)",realme,4.4,"9,834",853,"16,999","18,999",10,6,64,256 GB,6.5,48,5000,MediaTek Dimensity 800U,"16,150"
+86,"SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",SAMSUNG,4.3,"4,442",452,"10,999","12,999",15,4,64,512 GB,6.515,48,6000,Exynos 850,
+87,"POCO M3 (Yellow, 128 GB)",POCO,4.3,"92,792","7,304","11,999","14,999",20,6,128,512 GB,6.53,48,6000,Qualcomm Snapdragon 662,
+88,"realme Narzo 20 Pro (Black Ninja, 128 GB)",realme,4.3,"45,210","3,737","16,999","18,999",10,8,128,256 GB,6.5,48,4500,MediaTek Helio G95,"15,650"
+89,"POCO C3 (Arctic Blue, 64 GB)",POCO,4.3,"1,51,895","9,430","8,499","10,999",22,4,64,512 GB,6.53,13,5000,Mediatek Helio G35,
+90,"Infinix Hot 10 (Moonlight Jade, 128 GB)",Infinix,4.3,"64,865","6,656","10,999","13,999",21,6,128,256 GB,6.78,16,5200,MediaTek Helio G70,
+91,"SAMSUNG Galaxy F12 (Sea Green, 64 GB)",SAMSUNG,4.3,"4,442",452,"10,999","12,999",15,4,64,512 GB,6.515,48,6000,Exynos 850,
+92,"POCO C3 (Matte Black, 64 GB)",POCO,4.3,"1,51,895","9,430","8,499","10,999",22,4,64,512 GB,6.53,13,5000,Mediatek Helio G35,
+93,"SAMSUNG Galaxy F12 (Celestial Black, 128 GB)",SAMSUNG,4.3,"4,442",452,"11,999","13,999",14,4,128,512 GB,6.515,48,6000,Exynos 850,
+94,"realme Narzo 30 Pro 5G (Sword Black, 128 GB)",realme,4.3,"3,822",383,"19,999","21,999",9,8,128,256 GB,6.5,48,5000,MediaTek Dimensity 800U,"17,500"
+95,"realme Narzo 30 Pro 5G (Blade Silver, 128 GB)",realme,4.3,"3,822",383,"19,999","21,999",9,8,128,256 GB,6.5,48,5000,MediaTek Dimensity 800U,"17,500"
+96,"SAMSUNG Galaxy F12 (Sky Blue, 128 GB)",SAMSUNG,4.3,"4,444",452,"11,999","13,999",14,4,128,512 GB,6.515,48,6000,Exynos 850,
+97,"POCO M2 Pro (Out of the Blue, 64 GB)",POCO,4.4,"1,87,624","19,087","12,999","16,999",23,4,64,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,
+98,"realme 8 (Cyber Black, 128 GB)",realme,4.3,"6,812",704,"14,999","16,999",11,4,128,256 GB,6.4,64,5000,MediaTek Helio G95,"14,450"
+99,"I Kall K 320 (Purple, 64 GB)",I,3.2,"2,334",199,"6,499","6,799",4,4,64,,6.53,13,4000,,
+100,"realme 8 (Cyber Silver, 128 GB)",realme,4.3,"6,812",704,"14,999","16,999",11,4,128,256 GB,6.4,64,5000,MediaTek Helio G95,"14,450"
+101,"realme 8 (Cyber Silver, 128 GB)",realme,4.3,"2,654",276,"16,999","18,999",10,8,128,256 GB,6.4,64,5000,MediaTek Helio G95,"15,650"
+102,"realme 8 (Cyber Black, 128 GB)",realme,4.3,"2,654",276,"16,999","18,999",10,8,128,256 GB,6.4,64,5000,MediaTek Helio G95,"15,650"
+103,"I Kall K475 (Cyan, 64 GB)",I,2.8,73,9,"6,499","6,499",0,4,64,,6.53,13,4000,,
+104,"realme 8 (Cyber Silver, 128 GB)",realme,4.4,272,28,"15,999","17,999",11,6,128,256 GB,6.4,64,5000,MediaTek Helio G95,"15,150"
+105,"REDMI Note 9 (Shadow Black, 64 GB)",REDMI,4.3,"17,860","1,335","10,999","14,999",26,4,64,512 GB,6.53,48,5020,MediaTek Helio G85,
+106,Nokia 105 SS 2020,Nokia,4.2,"44,773","3,513","1,145","1,145",0,,,,1.77,,800,,
+107,"SAMSUNG Galaxy F12 (Sea Green, 128 GB)",SAMSUNG,4.3,"4,444",452,"11,999","13,999",14,4,128,512 GB,6.515,48,6000,Exynos 850,
+108,"POCO M2 (Pitch Black, 64 GB)",POCO,4.3,"3,56,044","26,888","10,499","12,999",19,6,64,512 GB,6.53,13,5000,MediaTek Helio G80,
+109,"I Kall K300 NEW (Black, 64 GB)",I,3.1,"1,774",139,"6,499","6,799",4,4,64,,6.53,13,4000,,
+110,"REDMI 9 Power (Fiery Red, 64 GB)",REDMI,4.3,"15,765","1,230","10,499","13,999",25,4,64,,6.53,48,6000,Qualcomm Snapdragon 662,
+111,"realme 8 Pro (Infinite Black, 128 GB)",realme,4.3,"8,959",911,"17,999","19,999",10,6,128,256 GB,6.4,108,4500,Qualcomm Snapdragon 720G,"16,500"
+112,"realme 8 Pro (Infinite Blue, 128 GB)",realme,4.3,"2,823",283,"19,999","21,999",9,8,128,256 GB,6.4,108,4500,Qualcomm Snapdragon 720G,"16,500"
+113,I Kall K65,I,3.4,"3,711",333,"1,599","1,629",1,,,,2.4,0.3,1000,,
+114,"realme 8 Pro (Infinite Black, 128 GB)",realme,4.3,"2,823",283,"19,999","21,999",9,8,128,256 GB,6.4,108,4500,Qualcomm Snapdragon 720G,"16,500"
+115,"realme 8 Pro (Infinite Blue, 128 GB)",realme,4.3,"8,959",911,"17,999","19,999",10,6,128,256 GB,6.4,108,4500,Qualcomm Snapdragon 720G,"16,500"
+116,"Redmi 8A Dual (Sky White, 32 GB)",Redmi,4.3,"46,408","3,527","6,999","8,499",17,2,32,512 GB,6.22,13,5000,Qualcomm Snapdragon 439,
+117,"POCO M2 Pro (Green and Greener, 64 GB)",POCO,4.4,"2,57,708","25,799","13,999","17,999",22,6,64,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,
+118,"REDMI 9 Power (Mighty Black, 128 GB)",REDMI,4.2,"2,358",178,"12,999","16,999",23,6,128,,6.53,48,6000,Qualcomm® Snapdragon™ 662,
+119,"I Kall K-1 (Black, 8 GB)",I,3.3,"3,947",507,"3,782","3,899",3,1,8,32 GB,5,5,2200,1.3 QUAD CORE PROCESSOR,
+120,"Google Pixel 4a (Just Black, 128 GB)",Google,4.6,"16,722","3,122","31,999","31,999",0,6,128,,5.81,12.2,3140,Qualcomm Snapdragon 730G,"16,500"
+121,"POCO M2 Pro (Out of the Blue, 64 GB)",POCO,4.4,"2,57,618","25,787","13,999","17,999",22,6,64,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,"13,450"
+122,"POCO X3 (Cobalt Blue, 128 GB)",POCO,4.3,"25,283","2,434","18,999","22,999",17,8,128,512 GB,6.67,64,6000,Qualcomm Snapdragon 732G,"16,500"
+123,"I Kall K 320 (Purple, 64 GB)",I,3.2,"2,333",199,"6,499","6,799",4,4,64,,6.53,13,4000,,
+124,"SAMSUNG Galaxy F41 (Fusion Black, 128 GB)",SAMSUNG,4.3,"2,56,826","30,245","16,499","20,999",21,6,128,512 GB,6.4,64,6000,Exynos 9611,"15,650"
+125,"SAMSUNG Galaxy F41 (Fusion Black, 64 GB)",SAMSUNG,4.3,"2,56,826","30,245","14,499","19,999",27,6,64,512 GB,6.4,64,6000,Exynos 9611,"13,550"
+126,"SAMSUNG Galaxy F41 (Fusion Green, 128 GB)",SAMSUNG,4.3,"2,56,826","30,245","16,499","20,999",21,6,128,512 GB,6.4,64,6000,Exynos 9611,"15,650"
+127,"SAMSUNG Galaxy F41 (Fusion Green, 64 GB)",SAMSUNG,4.3,"2,56,826","30,245","14,499","19,999",27,6,64,512 GB,6.4,64,6000,Exynos 9611,"13,550"
+128,"realme C15 Qualcomm Edition (Power Silver, 64 GB)",realme,4.4,"51,738","2,797","9,999","12,999",23,4,64,256 GB,6.52,13,6000,Qualcomm Snapdragon 460,"9,350"
+129,"I Kall K475 (Black, 64 GB)",I,2.8,73,9,"6,499","6,499",0,4,64,,6.53,13,4000,,
+130,"realme C15 Qualcomm Edition (Power Blue, 64 GB)",realme,4.4,"51,738","2,797","9,999","12,999",23,4,64,256 GB,6.52,13,6000,Qualcomm Snapdragon 460,"9,350"
+131,"POCO M2 Pro (Two Shades of Black, 64 GB)",POCO,4.4,"1,87,555","19,075","12,999","16,999",23,4,64,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,"12,150"
+132,"POCO M2 Pro (Two Shades of Black, 64 GB)",POCO,4.4,"2,57,618","25,787","13,999","17,999",22,6,64,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,"13,450"
+133,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+134,SAMSUNG Guru 1200,SAMSUNG,4.3,"1,54,428","13,869","1,323","1,323",0,,,,1.5,,800,0 0 0 0,
+135,"MOTOROLA E7 Power (Tahiti Blue, 64 GB)",MOTOROLA,4.1,"15,090","1,445","8,299","11,999",30,4,64,1 TB,6.51,13,5000,MediaTek Helio G25,"7,750"
+136,"Redmi 8A Dual (Midnight Grey, 32 GB)",Redmi,4.3,"46,350","3,519","6,999","8,499",17,2,32,512 GB,6.22,13,5000,Qualcomm Snapdragon 439,"6,450"
+137,Nokia 105 SS,Nokia,4.3,"87,723","8,141","1,177","1,177",0,,,,1.77,,800,,
+138,"SAMSUNG Galaxy F02s (Diamond Black, 64 GB)",SAMSUNG,4.2,177,11,"9,999","11,499",13,4,64,1 TB,6.515,13,5000,Qualcomm Snapdragon 450 (SDM450-F01),"9,350"
+139,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+140,"GIONEE Max Pro (Blue, 32 GB)",GIONEE,3.9,"1,537",189,"6,999","9,999",30,3,32,256 GB,6.52,13,6000,Octa Core,"6,450"
+141,"ViVO Y12s (Glacier Blue, 32 GB)",ViVO,4.3,"4,080",253,"9,990","13,990",28,3,32,256 GB,6.51,13,5000,Snapdragon 439,"9,350"
+142,"Redmi 9 Prime (Mint Green, 128 GB)",Redmi,4.4,"93,668","6,291","10,999","13,999",21,4,128,512 GB,6.53,13,5020,MediaTek Helio G80,"10,350"
+143,"I Kall K450 (Blue, 16 GB)",I,3.4,140,8,"4,199","4,199",0,2,16,,5.5,5,2500,,
+144,"ViVO Y12s (Glacier Blue, 32 GB)",ViVO,4.3,"4,090",255,"9,990","13,990",28,3,32,256 GB,6.51,13,5000,Snapdragon 439,"9,350"
+145,"Redmi 9 Prime (Space Blue, 128 GB)",Redmi,4.4,"93,846","6,301","10,999","13,999",21,4,128,512 GB,6.53,13,5020,MediaTek Helio G80,"10,350"
+146,"ViVO Y51A (Crystal Symphony, 128 GB)",ViVO,4.4,"2,500",184,"17,990","21,990",18,8,128,1 TB,6.58,48,5000,Qualcomm Snapdragon 662,"16,500"
+147,"Redmi 9 Prime (Mint Green, 128 GB)",Redmi,4.4,"93,846","6,301","10,999","13,999",21,4,128,512 GB,6.53,13,5020,MediaTek Helio G80,"10,350"
+148,"realme C15 Qualcomm Edition (Power Silver, 32 GB)",realme,4.3,"3,571",231,"8,999","11,999",25,3,32,256 GB,6.52,13,6000,Qualcomm Snapdragon 460,
+149,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+150,"REDMI Note 10 (Frost White, 128 GB)",REDMI,4.2,716,41,"15,200","15,500",1,6,128,512 GB,6.43,48,5000,Qualcomm Snapdragon 678,
+151,"Redmi 9 Prime (Matte Black, 128 GB)",Redmi,4.4,"93,846","6,301","10,999","13,999",21,4,128,512 GB,6.53,13,5020,MediaTek Helio G80,"10,350"
+152,"realme X7 5G (Nebula, 128 GB)",realme,4.4,"21,566","2,190","19,999","21,999",9,6,128,,6.43,64,4310,MediaTek Dimensity 800U,"17,500"
+153,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+154,"realme X7 5G (Space Silver, 128 GB)",realme,4.3,"4,894",424,"21,999","23,999",8,8,128,,6.43,64,4310,MediaTek Dimensity 800U,"17,500"
+155,"MOTOROLA G30 (Dark Pearl, 64 GB)",MOTOROLA,4,"9,220","1,024","10,999","14,999",26,4,64,,6.51,64,5000,Snapdragon 662,"10,350"
+156,"OPPO F19 Pro (Crystal Silver, 256 GB)",OPPO,4.3,"1,536",105,"23,490","25,990",9,8,256,256 GB,6.43,48,4310,MediaTek Helio P95 (MT6779V),"16,500"
+157,"POCO M2 (Brick Red, 64 GB)",POCO,4.3,"3,56,044","26,888","10,499","12,999",19,6,64,512 GB,6.53,13,5000,MediaTek Helio G80,
+158,"ViVO Y20G (Obsidian Black, 64 GB)",ViVO,4.3,862,50,"12,990","16,990",23,4,64,1 TB,6.51,13,5000,MediaTek Helio G80,"12,150"
+159,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+160,"ViVO Y20G (Purist Blue, 64 GB)",ViVO,4.3,862,50,"12,990","16,990",23,4,64,1 TB,6.51,13,5000,MediaTek Helio G80,"12,150"
+161,SAMSUNG Guru FM Plus SM-B110E/D,SAMSUNG,4.3,"55,516","5,681","1,449","1,662",12,,,,1.5,,800,,
+162,SAMSUNG Guru 1200,SAMSUNG,4.3,"1,54,449","13,872","1,323","1,323",0,,,,1.5,,800,0 0 0 0,
+163,"ViVO Y31 (Racing Black, 128 GB)",ViVO,4.4,"2,216",173,"16,490","20,490",19,6,128,1 TB,6.58,48,5000,Qualcomm Snapdragon 662,"15,650"
+164,"ViVO Y51A (Titanium Sapphire, 128 GB)",ViVO,4.4,"2,500",184,"17,990","21,990",18,8,128,1 TB,6.58,48,5000,Qualcomm Snapdragon 662,"16,500"
+165,"Tecno Spark Power 2 Air (Cosmic Shine, 32 GB)",Tecno,4.3,"17,565","1,481","8,499","9,999",15,3,32,256 GB,7,13,6000,MediaTek Helio A22 Quad Core,
+166,"APPLE iPhone SE (Black, 64 GB)",APPLE,4.5,"98,234","8,353","32,999","39,900",17,,64,,4.7,12,,A13 Bionic Chip with 3rd Gen Neural Engine,"16,500"
+167,"ViVO Y20i (Nebula Blue, 64 GB)",ViVO,4.4,"8,320",575,"11,490","15,490",25,3,64,256 GB,6.51,13,5000,Qualcomm Snapdragon 460,"10,950"
+168,"ViVO Y20i (Nebula Blue, 64 GB)",ViVO,4.4,"8,307",575,"11,490","15,490",25,3,64,256 GB,6.51,13,5000,Qualcomm Snapdragon 460,"10,950"
+169,"I Kall K 320 (Purple, 64 GB)",I,3.2,"2,333",199,"6,499","6,799",4,4,64,,6.53,13,4000,,
+170,"APPLE iPhone SE (Black, 64 GB)",APPLE,4.5,"98,204","8,349","32,999","39,900",17,,64,,4.7,12,,A13 Bionic Chip with 3rd Gen Neural Engine,"16,500"
+171,"realme C11 (Rich Green, 32 GB)",realme,4.4,"4,23,465","28,090","7,499","8,999",16,2,32,256 GB,6.5,13,5000,Mediatek Helio G35,"6,900"
+172,"realme C11 (Rich Grey, 32 GB)",realme,4.4,"4,23,465","28,090","7,499","8,999",16,2,32,256 GB,6.5,13,5000,Mediatek Helio G35,"6,900"
+173,"I Kall K475 (Black, 64 GB)",I,2.8,73,9,"6,499","6,499",0,4,64,,6.53,13,4000,,
+174,"Tecno Spark Go 2020 (Mystery White, 32 GB)",Tecno,4.4,"40,350","3,851","6,999","7,999",12,2,32,256 GB,6.52,13,5000,MediaTek Helio A20 Quad Core,"6,450"
+175,"Redmi 9 (Sky Blue, 128 GB)",Redmi,4.2,"11,185",665,"10,375","10,375",0,4,128,,6.53,13,5000,MediaTek Helio G35,
+176,"Redmi 9 (Sky Blue, 64 GB)",Redmi,4.2,"11,185",665,"9,034","10,999",17,4,64,,6.53,13,5000,MediaTek Helio G35,
+177,LAVA Flip,LAVA,4.2,"2,847",339,"1,752","2,099",16,,,32 GB,2.4,0.08,1200,MTK6261D,"1,250"
+178,"realme C15 (Power Blue, 32 GB)",realme,4.3,"47,586","3,391","8,999","11,999",25,3,32,256 GB,6.52,13,6000,Mediatek Helio G35,"8,450"
+179,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+180,"realme C15 (Power Blue, 64 GB)",realme,4.4,"1,13,152","6,811","9,999","12,999",23,4,64,256 GB,6.52,13,6000,Mediatek Helio G35,"9,350"
+181,LAVA A3,LAVA,4.2,"18,924","2,258","1,131","1,429",20,,,32 GB,1.77,0.3,1750,,
+182,"SAMSUNG Galaxy F02s (Diamond Blue, 32 GB)",SAMSUNG,4.2,156,13,"8,999","10,499",14,3,32,1 TB,6.515,13,5000,Qualcomm Snapdragon 450 (SDM450-F01),"8,450"
+183,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+184,"Redmi Note 9 Pro (Interstellar Black, 128 GB)",Redmi,4.4,"20,104","1,433","14,985","17,995",16,4,128,512 GB,6.67,48,5020,Qualcomm Snapdragon 720G,
+185,"MOTOROLA G9 Power (Electric Violet, 64 GB)",MOTOROLA,4.1,"23,095","2,330","11,999","15,999",25,4,64,512 GB,6.78,64,6000,Qualcomm Snapdragon 662,"11,200"
+186,LAVA A3,LAVA,4.2,"18,924","2,258","1,115","1,115",0,,,32 GB,1.77,0.3,1750,,
+187,"SAMSUNG Galaxy F02s (Diamond Blue, 64 GB)",SAMSUNG,4.2,177,11,"9,999","11,499",13,4,64,1 TB,6.515,13,5000,Qualcomm Snapdragon 450 (SDM450-F01),"9,350"
+188,"SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",SAMSUNG,4.3,"10,931","1,547","23,999","29,999",20,6,128,1 TB,6.7,64,7000,Exynos 9825,"17,500"
+189,"I Kall K450 (Blue, 16 GB)",I,3.4,140,8,"4,199","4,199",0,2,16,,5.5,5,2500,,
+190,"REDMI Note 10 (Shadow Black, 128 GB)",REDMI,4.2,709,41,"15,996","15,996",0,6,128,512 GB,6.43,48,5000,Qualcomm Snapdragon 678,
+191,"Tecno Spark 6 Go (Aqua Blue, 64 GB)",Tecno,4.3,"3,464",180,"8,699","9,999",13,4,64,512 GB,6.52,13,5000,MediaTek Helio A25,"8,150"
+192,"OPPO F19 Pro (Fluid Black, 128 GB)",OPPO,4.3,"1,524",105,"21,490","23,990",10,8,128,256 GB,6.43,48,4310,MediaTek Helio P95 (MT6779V),"18,500"
+193,"I Kall K 320 (Purple, 64 GB)",I,3.2,"2,333",199,"6,499","6,799",4,4,64,,6.53,13,4000,,
+194,"OPPO F19 Pro (Fluid Black, 256 GB)",OPPO,4.3,"1,524",105,"23,490","25,990",9,8,256,256 GB,6.43,48,4310,MediaTek Helio P95 (MT6779V),"16,500"
+195,"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",SAMSUNG,4.3,"5,549",768,"25,999","31,999",18,8,128,1 TB,6.7,64,7000,Exynos 9825,"17,500"
+196,"realme C15 (Power Silver, 32 GB)",realme,4.3,"47,586","3,391","8,999","11,999",25,3,32,256 GB,6.52,13,6000,Mediatek Helio G35,"8,450"
+197,"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",SAMSUNG,4.3,"5,549",768,"25,999","31,999",18,8,128,1 TB,6.7,64,7000,Exynos 9825,"17,500"
+198,"OPPO F17 Pro (Magic Blue, 128 GB)",OPPO,4.4,"8,005",605,"21,490","25,990",17,8,128,256 GB,6.43,48,4015,MediaTek Helio P95,"19,500"
+199,"I Kall K475 (Black, 64 GB)",I,2.8,73,9,"6,499","6,499",0,4,64,,6.53,13,4000,,
+200,"SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",SAMSUNG,4.3,"5,549",768,"25,999","31,999",18,8,128,1 TB,6.7,64,7000,Exynos 9825,"17,500"
+201,"POCO M2 Pro (Two Shades of Black, 128 GB)",POCO,4.4,"2,57,618","25,787","15,999","19,999",20,6,128,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,"15,150"
+202,"MOTOROLA E7 Power (Coral Red, 64 GB)",MOTOROLA,4.1,"15,090","1,445","8,299","11,999",30,4,64,1 TB,6.51,13,5000,MediaTek Helio G25,"7,750"
+203,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+204,LAVA Flip,LAVA,4.2,"2,847",339,"1,752","2,099",16,,,32 GB,2.4,0.08,1200,MTK6261D,"1,250"
+205,"ViVO Y30 (Emerald Black, 128 GB)",ViVO,4.3,"1,485",103,"14,990","18,990",21,6,128,256 GB,6.47,13,5000,MediaTek Helio P35,"14,450"
+206,SAMSUNG Guru Music 2,SAMSUNG,4.3,"1,68,744","16,429","1,868","1,950",4,,,16 GB,2,0,800,NA 0 Single Core 208MHz,
+207,Micromax X741,Micromax,4,"39,341","4,004","1,289","2,499",48,,,,2.4,0.3,1750,,
+208,"ViVO Y20i (Dawn White, 64 GB)",ViVO,4.4,"8,307",575,"11,490","15,490",25,3,64,256 GB,6.51,13,5000,Qualcomm Snapdragon 460,"10,950"
+209,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+210,"APPLE iPhone 11 (Black, 128 GB)",APPLE,4.6,"49,697","3,785","56,999","59,900",4,,128,,6.1,12,,A13 Bionic Chip,"16,500"
+211,Micromax X512,Micromax,3.9,"6,210",589,930,939,0,,,,1.77,0.3,1750,,
+212,Micromax X512,Micromax,3.9,"6,210",589,937,945,0,,,,1.77,0.3,1750,,
+213,"I Kall K450 (Blue, 16 GB)",I,3.4,140,8,"4,199","4,199",0,2,16,,5.5,5,2500,,
+214,"Tecno Spark 6 Go (Mystery White, 64 GB)",Tecno,4.3,"3,464",180,"8,699","9,999",13,4,64,512 GB,6.52,13,5000,MediaTek Helio A25,"8,150"
+215,"OPPO A33 (Mint Cream, 32 GB)",OPPO,4.2,"2,394",161,"10,990","12,990",15,3,32,256 GB,6.5,13,5000,Qualcomm Snapdragon 460,"10,350"
+216,Nokia 150 DS 2020,Nokia,4.1,"8,922",671,"2,288","2,288",0,,,32 GB,2.4,0.3,1020,MediaTek,
+217,"Redmi 9A (Nature Green, 32 GB)",Redmi,4.3,"4,320",265,"7,799","9,499",17,3,32,512 GB,6.53,13,5000,MediaTek Helio G25,
+218,"Redmi 9A (SeaBlue, 32 GB)",Redmi,4.3,"7,023",382,"7,227","8,499",14,2,32,,6.53,13,5000,,
+219,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+220,"Redmi 9A (Nature Green, 32 GB)",Redmi,4.3,"7,023",382,"7,150","8,499",15,2,32,,6.53,13,5000,,
+221,"Redmi 9A (Midnight Black, 32 GB)",Redmi,4.3,"7,023",382,"7,250","7,685",5,2,32,,6.53,13,5000,,
+222,"ViVO Y30 (Emerald Black, 128 GB)",ViVO,4.3,"10,087",627,"13,990","18,990",26,4,128,256 GB,6.47,13,5000,MediaTek Helio P35,"13,400"
+223,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+224,"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",SAMSUNG,4.3,"10,967","1,554","23,999","29,999",20,6,128,1 TB,6.7,64,7000,Exynos 9825,"17,500"
+225,LAVA GEM,LAVA,4.2,"15,638","1,807","1,577","1,919",17,,,32 GB,2.8,1.3,1750,NA,
+226,"Micromax IN 1 (Blue, 128 GB)",Micromax,4.3,995,242,"11,499","16,499",30,6,128,256 GB,6.67,48,5000,MediaTek Helio G80,"10,850"
+227,"REDMI 9 Power (Blazing Blue, 128 GB)",REDMI,4.3,"15,765","1,230","11,999","15,999",25,4,128,,6.53,48,6000,Qualcomm Snapdragon 662,
+228,"POCO M2 Pro (Green and Greener, 128 GB)",POCO,4.4,"2,57,708","25,799","15,999","19,999",20,6,128,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,"15,150"
+229,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+230,"ViVO Y20G (Purist Blue, 128 GB)",ViVO,4.3,869,47,"14,990","18,990",21,6,128,,6.51,13,5000,,"14,450"
+231,KARBONN KX3,KARBONN,3.9,"4,832",390,870,870,0,,,32 GB,1.8,0.3,800,,
+232,"OPPO A31 (Mystery Black, 128 GB)",OPPO,4.3,"21,802","1,379","11,990","15,990",25,6,128,256 GB,6.5,12,4230,MediaTek Helio P35 Octa Core,
+233,"MOTOROLA E7 Power (Tahiti Blue, 32 GB)",MOTOROLA,4.2,420,35,"7,499","9,999",25,2,32,1 TB,6.51,13,5000,MediaTek Helio G25,
+234,Nokia 216 DS 2020,Nokia,4.2,"43,214","4,759","2,795","2,999",6,,,32 GB,2.4,0.3,1020,0 0 0 0,
+235,"GIONEE Max Pro (Black, 32 GB)",GIONEE,3.9,"1,547",191,"6,999","9,999",30,3,32,256 GB,6.52,13,6000,Octa Core,"6,450"
+236,"Apple iPhone XR (Black, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.6,"81,233","6,932","46,999","52,900",11,,128,,6.1,12,,A12 Bionic Chip,"16,500"
+237,LAVA A1,LAVA,4.2,"14,703","1,437",988,"1,279",22,,,32 GB,1.77,0.3,800,,
+238,LAVA A1,LAVA,4.2,"14,703","1,437",988,"1,279",22,,,32 GB,1.77,0.3,800,,
+239,LAVA A1,LAVA,4.2,"91,801","10,174",988,"1,119",11,,,32 GB,1.77,0.3,800,,
+240,"REDMI Note 10 (Shadow Black, 128 GB)",REDMI,4.2,716,41,"15,990","15,990",0,6,128,512 GB,6.43,48,5000,Qualcomm Snapdragon 678,
+241,Salora Atom,Salora,3.8,603,49,619,619,0,,,,1.8,1.3,1000,Spreadtrum,
+242,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",999,"1,099",9,,,,1.44,0.3,850,,
+243,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+244,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",999,"1,099",9,,,,1.44,0.3,850,,
+245,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",999,"1,099",9,,,,1.44,0.3,850,,
+246,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",999,"1,099",9,,,,1.44,0.3,850,,
+247,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",979,"1,099",10,,,,1.44,0.3,850,,
+248,"OPPO A15S (Fancy white, 128 GB)",OPPO,4.3,413,18,"12,375","12,375",0,4,128,,6.52,13,4230,,
+249,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+250,"Panasonic Eluga I7 (Black, 16 GB)",Panasonic,3.7,"6,682",681,"5,005","5,005",0,2,16,256 GB,5.46,8,4000,MediaTek Quad Core,
+251,"APPLE iPhone SE (Black, 128 GB)",APPLE,4.5,"98,234","8,353","37,999","44,900",15,,128,,4.7,12,,A13 Bionic Chip with 3rd Gen Neural Engine,"16,500"
+252,"realme 6 Pro (Lightning Blue, 128 GB)",realme,4.4,"30,092","3,525","19,999","19,999",0,8,128,256 GB,6.6,64,4300,Snapdragon 720G,"16,500"
+253,Nokia 3310 DS 2020,Nokia,3.8,"30,232","3,274","3,599","4,233",14,,,32 GB,2.4,2,1200,,
+254,Nokia 105 DS 2020,Nokia,4.2,"12,151",957,"1,353","1,353",0,,,,1.8,,800,,
+255,"REDMI 9i (Midnight Black, 128 GB)",REDMI,4.3,"2,55,535","14,521","9,299","10,999",15,4,128,512 GB,6.53,13,5000,MediaTek Helio G25,
+256,SAMSUNG Guru Music 2,SAMSUNG,4.3,"1,68,756","16,429","1,880","1,899",1,,,,2,,800,0 0 0 208MHz,
+257,Nokia 5310 DS 2020,Nokia,4.2,"6,215",416,"3,340","3,340",0,,,32 GB,2.4,0.3,1200,MT6260A,
+258,Nokia 105,Nokia,4,"26,358","2,429","1,151","1,152",0,,,,1.4,,800,,
+259,"GIONEE Max Pro (Red, 32 GB)",GIONEE,3.9,"1,547",191,"6,999","9,999",30,3,32,256 GB,6.52,13,6000,Octa Core,"6,450"
+260,"Itel Vision1 (Gradation Green, 32 GB)",Itel,4.1,"19,412","1,707","6,549","8,299",21,3,32,128 GB,6.088,8,4000,Unisoc SC9863A Octa Core,"6,000"
+261,SAMSUNG Guru GT,SAMSUNG,4.1,"3,292",279,"1,320","1,355",2,,,,1.5,,800,0 0 0 0,
+262,"Redmi 9A (Midnight Black, 32 GB)",Redmi,4.3,"4,320",265,"8,004","8,004",0,3,32,512 GB,6.53,13,5000,MediaTek Helio G25,
+263,Nokia 5310 DS 2020,Nokia,4.2,"6,215",416,"3,449","3,449",0,,,32 GB,2.4,0.3,1200,MT6260A,
+264,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",999,"1,099",9,,,,1.44,0.3,850,,
+265,Nokia 150 DS 2020,Nokia,4.1,"8,922",671,"2,299","2,299",0,,,32 GB,2.4,0.3,1020,MediaTek,
+266,Nokia 150 DS 2020,Nokia,4.1,"8,922",671,"2,399","2,399",0,,,32 GB,2.4,0.3,1020,MediaTek,
+267,SAMSUNG Guru Music 2,SAMSUNG,4.3,"1,68,756","16,429","1,879","1,879",0,,,,2,,800,0 0 0 208MHz,
+268,"SAMSUNG M01 core (Black, 16 GB)",SAMSUNG,4,"6,169",502,"5,265","6,999",24,1,16,512 GB,5.3,8,3000,MediaTek | MT6739WW quad core,
+269,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+270,Micromax X378,Micromax,4,"6,074",500,828,828,0,,,,1.77,1,800,,
+271,Micromax X378,Micromax,4,"6,074",500,899,899,0,,,,1.77,1,800,,
+272,"Panasonic Eluga I7 (Black, 16 GB)",Panasonic,3.7,"6,682",681,"5,005","5,005",0,2,16,256 GB,5.46,8,4000,MediaTek Quad Core,
+273,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+274,Nokia 105 DS 2020,Nokia,4.2,"12,151",957,"1,353","1,353",0,,,,1.8,,800,,
+275,"OPPO A15S (Fancy white, 128 GB)",OPPO,4.3,413,18,"12,375","12,375",0,4,128,,6.52,13,4230,,
+276,"REDMI 9i (Midnight Black, 128 GB)",REDMI,4.3,"2,55,536","14,521","9,299","10,999",15,4,128,512 GB,6.53,13,5000,MediaTek Helio G25,
+277,Nokia 5310 DS 2020,Nokia,4.2,"6,215",416,"3,340","3,340",0,,,32 GB,2.4,0.3,1200,MT6260A,
+278,"ViVO V20 2021 (Sunset Melody, 256 GB)",ViVO,4.4,"2,945",304,"25,990","30,990",16,8,256,1 TB,6.44,64,4000,Qualcomm Snapdragon 730,"16,500"
+279,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+280,"Mi 10i (Midnight Black, 128 GB)",Mi,4.4,438,39,"24,963","25,477",2,8,128,,6.67,108,4820,Qualcomm® Snapdragon™ 750G,
+281,"POCO M2 Pro (Out of the Blue, 128 GB)",POCO,4.4,"2,57,708","25,799","15,999","19,999",20,6,128,512 GB,6.67,48,5000,Qualcomm Snapdragon 720G,"15,150"
+282,"GIONEE Max Pro (Red, 32 GB)",GIONEE,3.9,"1,547",191,"6,999","9,999",30,3,32,256 GB,6.52,13,6000,Octa Core,"6,450"
+283,Nokia 5310 DS 2020,Nokia,4.2,"6,215",416,"3,449","3,449",0,,,32 GB,2.4,0.3,1200,MT6260A,
+284,"Itel Vision1 (Gradation Green, 32 GB)",Itel,4.1,"19,412","1,707","6,549","8,299",21,3,32,128 GB,6.088,8,4000,Unisoc SC9863A Octa Core,"6,000"
+285,Snexian Rock,Snexian,4,"8,905",588,"1,299","1,999",35,,,,1.7,0.3,800,,
+286,"ViVO V20 SE (Aquamarine Green, 128 GB)",ViVO,4.3,"4,148",310,"19,990","24,990",20,8,128,1 TB,6.44,48,4100,Qualcomm Snapdragon 665,"16,500"
+287,"ViVO V20 SE (Gravity Black, 128 GB)",ViVO,4.3,"4,148",310,"19,990","24,990",20,8,128,1 TB,6.44,48,4100,Qualcomm Snapdragon 665,"16,500"
+288,"Redmi 9 (Carbon Black, 64 GB)",Redmi,4.2,"11,194",666,"8,990","10,999",18,4,64,,6.53,13,5000,MediaTek Helio G35,
+289,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+290,Micromax X816,Micromax,4.1,103,7,"1,379","1,399",1,,,,2.8,0.3,1750,,
+291,"REDMI Note 10 Pro (Glacial Blue, 128 GB)",REDMI,4.1,68,9,"19,770","19,770",0,6,128,,6.67,64,5020,,
+292,"REDMI Note 10 Pro (Vintage Bronze, 128 GB)",REDMI,4.4,32,3,"21,980","21,980",0,8,128,,6.67,64,5020,,
+293,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+294,"REDMI Note 10 Pro Max (Glacial Blue, 128 GB)",REDMI,4.7,36,4,"22,491","24,990",10,8,128,512 GB,6.67,108,5020,Qualcomm Snapdragon 732G,
+295,LAVA A5,LAVA,4.1,"5,487",543,"1,263","1,590",20,,,32 GB,2.4,0.3,1000,,
+296,LAVA A5,LAVA,4.1,"5,487",543,"1,263","1,489",15,,,32 GB,2.4,0.3,1000,,500
+297,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",913,915,0,,,,1.44,0.3,850,,
+298,"realme X3 SuperZoom (Arctic White, 256 GB)",realme,4.3,"2,063",259,"27,999","34,999",20,12,256,,6.57,64,4200,Qualcomm Snapdragon 855+,"16,500"
+299,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+300,"SAMSUNG Galaxy M01 (Black, 32 GB)",SAMSUNG,4.2,"17,849","1,332","7,809","7,899",1,3,32,512 GB,5.7,13,4000,Qualcomm Snapdragon (SDM439) Octa Core,
+301,Micromax X746,Micromax,4,"11,811","1,385","1,399","2,499",44,,,,2.4,0.3,3000,,
+302,"OPPO F19 (Midnight Blue, 128 GB)",OPPO,4,205,14,"18,990","20,990",9,6,128,256 GB,6.43,48,5000,Qualcomm Snapdragon 662,"18,000"
+303,"ViVO Y11 (Mineral Blue, 32 GB)",ViVO,4.3,"16,754","1,164","9,490","9,990",5,3,32,,6.35,13,5000,SDM439,"8,900"
+304,"ViVO Y11 (Agate Red, 32 GB)",ViVO,4.3,"16,754","1,164","9,490","9,990",5,3,32,,6.35,13,5000,SDM439,"8,900"
+305,"Infinix Zero 8i (Black Diamond, 128 GB)",Infinix,4.2,"4,521",599,"15,999","18,999",15,8,128,256 GB,6.85,48,4500,MediaTek Helio G90T,"15,150"
+306,"SAMSUNG M01 core (Black, 32 GB)",SAMSUNG,3.9,"6,596",570,"6,216","7,999",22,2,32,512 GB,5.3,8,3000,MediaTek | MT6739WW quad core,
+307,Kechaoda K112,Kechaoda,4,"9,866","1,171","1,328","1,328",0,,,32 GB,2.4,0.3,3600,,
+308,"Voto V2 (Black, 16 GB)",Voto,3.5,"6,259",830,"3,799","3,999",5,2,16,,5,13,3000,Spreadtrum SC9832 Cortex A7,
+309,LAVA Gem,LAVA,4.2,"1,814",190,"1,549","1,549",0,,,32 GB,2.8,1.3,1750,,
+310,Nokia 110 DS 2020,Nokia,4.1,"9,238",721,"1,578","1,610",1,,,32 MB,1.77,1,800,,
+311,Micromax X381,Micromax,4,"1,076",89,865,886,2,,,,1.77,0.03,800,,
+312,"realme 3i (Diamond Blue, 32 GB)",realme,4.4,"2,96,852","26,316","8,499","8,999",5,3,32,256 GB,6.22,13,4230,MediaTek Helio P60 Octa Core 2.0 GHz,
+313,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+314,KARBONN K9,KARBONN,4.1,"5,792",529,"1,249","1,390",10,,,,2.6,2,1800,,
+315,Nokia 105,Nokia,4,"26,358","2,429","1,151","1,152",0,,,,1.4,,800,,
+316,Grabo G106,Grabo,3.6,"2,924",329,699,759,7,,,,1.8,0.3,1000,,
+317,"REDMI 9 Power (Fiery Red, 128 GB)",REDMI,4.2,"2,358",178,"12,999","16,999",23,6,128,,6.53,48,6000,Qualcomm® Snapdragon™ 662,
+318,"ViVO V20 2021 (Midnight Jazz, 128 GB)",ViVO,4.4,"2,945",304,"22,990","27,990",17,8,128,1 TB,6.44,64,4000,Qualcomm Snapdragon 730,"16,500"
+319,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+320,Kechaoda A26,Kechaoda,4.1,"6,706",564,949,"1,099",13,,,16 GB,0.66,,800,,
+321,"OPPO F17 Pro (Metallic White, 128 GB)",OPPO,4.4,"8,010",606,"21,490","25,990",17,8,128,256 GB,6.43,48,4015,MediaTek Helio P95,"19,500"
+322,LAVA A5,LAVA,4.1,"5,487",543,"1,263","1,590",20,,,32 GB,2.4,0.3,1000,,
+323,"POCO M2 (Brick Red, 128 GB)",POCO,4.3,"3,56,044","26,888","11,499","14,999",23,6,128,512 GB,6.53,13,5000,MediaTek Helio G80,
+324,Itel IT2163,Itel,4,"3,496",315,839,839,0,,,32 GB,1.8,,1000,SC6531E,
+325,Micromax X381,Micromax,4,"1,076",89,915,"1,499",38,,,,1.77,0.3,800,,
+326,Micromax X412,Micromax,3.9,"8,173",709,805,838,3,,,,1.77,,800,,
+327,"SAMSUNG Galaxy A31 (Prism Crush White, 128 GB)",SAMSUNG,4.3,"8,662",803,"16,999","23,999",29,6,128,512 GB,6.4,48,5000,MediaTek (MT6768) Octa Core,"15,650"
+328,"REDMI 9 Power (Mighty Black, 128 GB)",REDMI,4.3,"15,765","1,230","11,999","15,999",25,4,128,,6.53,48,6000,Qualcomm Snapdragon 662,
+329,I Kall K 444,I,3.8,"3,319",294,999,999,0,,,,2.4,0.3,2500,,
+330,Itel Ace,Itel,4.1,511,42,778,778,0,,,32 GB,1.8,,1000,SC6531E,
+331,Itel Ace,Itel,4.1,511,42,792,792,0,,,32 GB,1.8,,1000,SC6531E,
+332,SAMSUNG Metro 313 Dual Sim,SAMSUNG,4.2,"12,320","1,278","2,340","2,340",0,,,,2,0.3,1000,,
+333,Nokia 105 DS 2020,Nokia,4.2,"12,151",957,"1,304","1,304",0,,,,1.8,,800,,
+334,Micromax X744,Micromax,3.9,"9,618","1,010","1,209","1,209",0,,,,2.4,0.3,2200,,
+335,SAMSUNG Metro 313 Dual Sim,SAMSUNG,4.3,"11,316","1,044","2,340","2,340",0,,,16 GB,2,0.3,1000,0 0 0 0,
+336,"realme X7 Pro 5G (Fantasy, 128 GB)",realme,4.3,"5,597",775,"29,999","32,999",9,8,128,,6.55,64,4500,MediaTek Dimensity 1000 Plus,"18,500"
+337,BlackZone ECO X,BlackZone,4,"3,892",271,"1,390","1,470",5,,,32 GB,1.44,0.3,1000,,
+338,BlackZone ECO X,BlackZone,4,"3,892",271,"1,390","1,470",5,,,32 GB,1.44,0.3,1000,,
+339,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+340,BlackZone ECO X,BlackZone,4,"3,892",271,"1,390","1,470",5,,,32 GB,1.44,0.3,1000,,
+341,Micromax X746,Micromax,4,"11,811","1,385","1,345","2,499",46,,,,2.4,0.3,3000,,
+342,"OPPO A31 (Lake Green, 64 GB)",OPPO,4.3,"18,995","1,317","11,490","11,990",4,4,64,256 GB,6.5,12,4230,MediaTek Helio P35 Octa Core,
+343,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+344,"OPPO A31 (Mystery Black, 64 GB)",OPPO,4.3,"18,995","1,317","11,490","11,690",1,4,64,256 GB,6.5,12,4230,MediaTek Helio P35 Octa Core,
+345,"OPPO A31 (Fantasy White, 128 GB)",OPPO,4.3,"21,802","1,379","13,490","13,990",3,6,128,256 GB,6.5,12,4230,MediaTek Helio P35 Octa Core,
+346,"SAMSUNG Galaxy A31 (Prism Crush Blue, 128 GB)",SAMSUNG,4.3,"8,662",803,"16,999","23,999",29,6,128,512 GB,6.4,48,5000,MediaTek (MT6768) Octa Core,"15,650"
+347,"ViVO Y20A (Dawn White, 64 GB)",ViVO,4.4,463,29,"11,490","15,490",25,3,64,256 GB,6.51,13,5000,Qualcomm Snapdragon 439,
+348,"ViVO Y91i (Ocean Blue, 32 GB)",ViVO,4.3,"38,782","2,765","7,990","9,990",20,2,32,256 GB,6.22,13,4030,MTK Helio P22,"7,300"
+349,"LG W30 Pro (Midnight Blue, 64GB GB)",LG,3.9,268,37,"9,530","14,450",34,4,64,,6.21,16,4050,,
+350,"IQOO 3 (Tornado Black, 128 GB)",IQOO,4.5,"14,849","2,378","29,990","37,990",21,8,128,,6.44,48,4440,Qualcomm Snapdragon 865,"16,500"
+351,"IQOO 3 (Quantum Silver, 128 GB)",IQOO,4.5,"14,849","2,378","29,990","37,990",21,8,128,,6.44,48,4440,Qualcomm Snapdragon 865,"16,500"
+352,LAVA A1,LAVA,4.2,"14,703","1,437","1,030","1,039",0,,,32 GB,1.77,0.3,800,,
+353,"SAMSUNG Galaxy A21s (Blue, 64 GB)",SAMSUNG,4.2,"6,493",608,"14,969","15,999",6,6,64,512 GB,6.5,48,5000,Exynos 850 Octa Core,
+354,SAMSUNG Guru FM Plus SM-B110E/D,SAMSUNG,4.3,"55,516","5,681","1,449","1,662",12,,,,1.5,0,800,,
+355,"SAMSUNG M02s (Blue, 64 GB)",SAMSUNG,4.2,413,31,"10,250","10,490",2,4,64,,6.5,13,5000,Qualcomm Snapdragon 450,
+356,Salora Atom,Salora,3.8,603,49,619,619,0,,,,1.8,1.3,1000,Spreadtrum,
+357,LAVA Hero 600+,LAVA,4.2,886,82,869,869,0,,,32 GB,1.8,,620,,
+358,"POCO M2 (Slate Blue, 64 GB)",POCO,4.3,"3,56,044","26,888","10,499","12,999",19,6,64,512 GB,6.53,13,5000,MediaTek Helio G80,
+359,"realme 6 (Comet White, 64 GB)",realme,4.4,"1,77,689","16,690","14,999","17,999",16,6,64,256 GB,6.5,64,4300,MediaTek Helio G90T,
+360,"REDMI 9 Power (Fiery Red, 128 GB)",REDMI,4.3,"15,765","1,230","11,999","15,999",25,4,128,,6.53,48,6000,Qualcomm Snapdragon 662,
+361,"Infinix Zero 8i (Silver Diamond, 128 GB)",Infinix,4.2,"4,521",599,"15,999","18,999",15,8,128,256 GB,6.85,48,4500,MediaTek Helio G90T,"15,150"
+362,Micromax X741,Micromax,4,"39,354","4,004","1,255","1,255",0,,,,2.4,0.3,1750,,
+363,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+364,"Redmi 8A Dual (Sky White, 64 GB)",Redmi,4.2,"13,307",886,"8,537","8,990",5,3,64,512 GB,6.22,13,5000,Qualcomm Snapdragon 439,
+365,Kechaoda K115,Kechaoda,4.1,"19,320","1,660",970,970,0,,,,1.44,0.3,850,,
+366,Itel IT2163,Itel,4,"3,496",315,839,839,0,,,32 GB,1.8,,1000,SC6531E,
+367,"Infinix Hot 9 Pro (Ocean Wave, 64 GB)",Infinix,4.4,"81,777","7,217","10,499","12,999",19,4,64,256 GB,6.6,48,5000,MediaTek Helio P22 (64 bit),
+368,"Redmi 9A (Midnight Black, 32 GB)",Redmi,4.3,"4,320",265,"7,940","7,940",0,3,32,512 GB,6.53,13,5000,MediaTek Helio G25,
+369,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+370,Kechaoda K10,Kechaoda,4,"8,917",648,844,849,0,,,,0.66,,300,,
+371,"Tecno POVA (Speed Purple, 64 GB)",Tecno,4.3,"4,333",472,"10,499","11,999",12,4,64,256 GB,6.8,16,6000,MediaTek Helio G80,
+372,"OPPO A15S (Fancy White, 64 GB)",OPPO,4.3,413,18,"11,490","11,490",0,4,64,,6.52,13,4230,,
+373,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+374,Micromax X744,Micromax,3.9,"9,618","1,010","1,179","2,499",52,,,,2.4,0.3,2200,,
+375,LAVA A9,LAVA,4.1,"2,395",256,"1,577","1,919",17,,,32 GB,2.8,1.3,1700,,
+376,LAVA A9,LAVA,4.1,"2,395",256,"1,574","1,899",17,,,32 GB,2.8,1.3,1700,,
+377,"SAMSUNG Galaxy M12 (Blue, 64 GB)",SAMSUNG,3.9,41,5,"11,133","11,133",0,4,64,,6.5,48,6000,,
+378,"APPLE iPhone SE (White, 64 GB)",APPLE,4.5,"98,234","8,353","32,999","39,900",17,,64,,4.7,12,,A13 Bionic Chip with 3rd Gen Neural Engine,"16,500"
+379,"ViVO Y91i (Fusion Black, 32 GB)",ViVO,4.3,"38,782","2,765","7,990","9,990",20,2,32,256 GB,6.22,13,4030,MTK Helio P22,"7,300"
+380,"realme 3i (Diamond Black, 32 GB)",realme,4.4,"2,96,852","26,316","8,499","8,999",5,3,32,256 GB,6.22,13,4230,MediaTek Helio P60 Octa Core 2.0 GHz,
+381,"APPLE iPhone 11 (Green, 64 GB)",APPLE,4.6,"49,808","3,795","51,999","54,900",5,,64,,6.1,12,,A13 Bionic Chip,"16,500"
+382,Forme N9,Forme,3.5,38,6,725,749,3,,,,1.8,,1050,,
+383,"realme X3 SuperZoom (Glacier Blue, 256 GB)",realme,4.4,"7,493",822,"24,999","31,999",21,8,256,,6.57,64,4200,Qualcomm Snapdragon 855+,"16,500"
+384,"Redmi Note 9 Pro (Aurora Blue, 64 GB)",Redmi,4.4,"20,104","1,433","15,489","15,489",0,4,64,512 GB,6.67,48,5020,Qualcomm® Snapdragon™ 720G,
+385,"Itel VISION1 (GRADATION GREEN, 32 GB)",Itel,4.1,173,17,"6,992","6,995",0,2,32,128 GB,6.088,8,4000,UNISOC SC9863A OCTA CORE,
+386,KARBONN KX1i,KARBONN,4,125,4,780,990,21,,,32 GB,1.8,,800,,
+387,"REDMI Note 9 Pro Max (Champagne Gold, 64 GB)",REDMI,4.4,"30,490","2,449","16,362","16,362",0,6,64,512 GB,6.67,64,5020,Qualcomm Snapdragon 720G,
+388,"ViVO V20 Pro (Sunset Melody, 128 GB)",ViVO,4.4,"6,710",699,"29,990","34,990",14,8,128,,6.44,64,4000,Qualcomm Snapdragon 765G,"16,500"
+389,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+390,"ViVO V20 Pro (Midnight Jazz, 128 GB)",ViVO,4.4,"6,710",699,"29,990","34,990",14,8,128,,6.44,64,4000,Qualcomm Snapdragon 765G,"16,500"
+391,Snexian Rock,Snexian,4,"8,903",588,"1,249","1,249",0,,,,1.7,0.3,800,,
+392,"Moto G 5G (Frosted Silver, 128 GB)",Moto,4.2,"11,620","1,326","20,999","24,999",16,6,128,1 TB,6.67,48,5000,Qualcomm Snapdragon 750G,"16,500"
+393,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+394,LAVA A9,LAVA,4.1,"2,391",256,"1,577","1,919",17,,,32 GB,2.8,1.3,1700,,
+395,LAVA A9,LAVA,4.1,"2,391",256,"1,577","1,919",17,,,32 GB,2.8,1.3,1700,,
+396,Micromax X756,Micromax,3.9,"3,262",362,"1,498","1,599",6,,,,2.4,0.3,3000,,
+397,Kechaoda K116 Plus,Kechaoda,4,"7,786",627,999,"1,125",11,,,,1.77,0.3,400,,
+398,"I Kall K450 (Blue, 16 GB)",I,3.4,140,8,"4,199","4,199",0,2,16,,5.5,5,2500,,
+399,"I Kall K201 (Dark Blue, 16 GB)",I,3.1,"1,382",128,"4,849","5,299",8,2,16,,6.26,8,3000,,
+400,Forme N9,Forme,3.5,38,6,725,749,3,,,,1.8,,1050,,
+401,"SAMSUNG Galaxy M02 (Black, 32 GB)",SAMSUNG,4.1,284,28,"7,468","7,599",1,2,32,,6.55,13,5000,MediaTek MT6739,
+402,"SAMSUNG Galaxy M31 (Ocean Blue, 128 GB)",SAMSUNG,4.3,735,46,"19,398","19,900",2,8,128,512 GB,6.4,64,6000,Samsung Exynos 9 Octa 9611,
+403,"I Kall K 500 (Blue, 64 GB)",I,3,772,76,"6,399","6,649",3,4,64,,6.26,8,3000,,
+404,SAMSUNG Guru FM Plus,SAMSUNG,4.2,"21,991","2,023","1,662","1,662",0,,,,1.5,,800,,
+405,SAMSUNG Guru Music 2,SAMSUNG,4.3,"1,68,744","16,429","1,879","1,888",0,,,16 GB,2,,800,,
+406,Nokia 3310 DS 2020,Nokia,3.8,"30,225","3,273","3,599","3,599",0,,,32 GB,2.4,2,1200,,
+407,Kechaoda K115,Kechaoda,4.1,"19,313","1,659",960,960,0,,,,1.44,0.3,850,,
+408,"APPLE iPhone SE (Black, 128 GB)",APPLE,4.5,"98,234","8,353","37,999","44,900",15,,128,,4.7,12,,A13 Bionic Chip with 3rd Gen Neural Engine,"16,500"
+409,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+410,Kechaoda A27,Kechaoda,4.1,"3,121",279,910,"1,099",17,,,16 GB,0.66,,800,,
+411,"SAMSUNG Galaxy M02 (Black, 32 GB)",SAMSUNG,4.1,286,28,"7,468","7,599",1,2,32,,6.55,13,5000,MediaTek MT6739,
+412,"Redmi Note 9 Pro (Glacier White, 64 GB)",Redmi,4.4,"20,122","1,433","14,989","15,679",4,4,64,512 GB,6.67,48,5020,Qualcomm® Snapdragon™ 720G,
+413,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+414,"ViVO S1 Pro (Dreamy White, 128 GB)",ViVO,4.4,"32,108","2,594","18,990","20,990",9,8,128,256 GB,6.38,48,4500,Qualcomm Snapdragon 665,"17,650"
+415,Kechaoda K33,Kechaoda,4,"4,562",353,989,"1,099",10,,,,1.4,0.3,800,,
+416,Kechaoda K33,Kechaoda,4,"4,562",353,989,989,0,,,,1.4,0.3,800,,
+417,Kechaoda K33,Kechaoda,4,"4,562",353,999,999,0,,,,1.4,0.3,800,,
+418,KARBONN K19 Rock,KARBONN,3.9,"2,569",228,890,"1,090",18,,,16 GB,1.8,0.3,1750,,
+419,KARBONN KX3,KARBONN,3.9,"4,832",390,870,870,0,,,32 GB,1.8,0.3,800,,
+420,Nuvo NF18-BW,Nuvo,3.8,192,12,699,699,0,,,,1.8,1.3,800,,
+421,Good One Magic,Good,4,"2,200",188,"1,399","1,450",3,,,32 GB,1.7,2,1050,,
+422,Good One Magic,Good,4,"2,200",188,"1,499","1,499",0,,,,1.7,2,1050,,
+423,"Itel Vision1 (Gradation Blue, 32 GB)",Itel,4.1,"19,412","1,707","6,549","8,299",21,3,32,128 GB,6.088,8,4000,Unisoc SC9863A Octa Core,"6,000"
+424,Micromax X809,Micromax,3.9,"1,802",149,"1,188","1,188",0,,,,2.4,1,1000,,
+425,"REDMI Note 9 (Aqua Green, 128 GB)",REDMI,4.3,"3,004",199,"13,999","18,999",26,6,128,512 GB,6.53,48,5020,MediaTek Helio G85,
+426,"Redmi 8A (Ocean Blue, 32 GB)",Redmi,4.3,"1,35,614","10,601","8,349","8,349",0,3,32,512 GB,6.22,12,5000,Qualcomm Snapdragon 439,
+427,"ViVO Y91i (Fusion Black, 16 GB)",ViVO,4.3,"38,782","2,765","8,199","8,199",0,2,16,256 GB,6.22,13,4030,MTK Helio P22,
+428,Nokia 105 DS 2020,Nokia,4.2,"12,151",957,"1,390","1,390",0,,,,1.8,,800,,
+429,"GIONEE F8 Neo (Blue, 32 GB)",GIONEE,3.8,587,47,"5,099","5,099",0,2,32,256 GB,5.45,8,3000,Unisoc SC9863,
+430,"GIONEE F8 Neo (Black, 32 GB)",GIONEE,3.8,587,47,"5,099","5,099",0,2,32,256 GB,5.45,8,3000,Unisoc SC9863,
+431,"REDMI Note 9 (Pebble Grey, 128 GB)",REDMI,4.3,"3,004",199,"13,999","18,999",26,6,128,512 GB,6.53,48,5020,MediaTek Helio G85,
+432,Grabo HULK,Grabo,3.5,402,36,719,789,8,,,,1.8,0.3,1000,,
+433,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+434,Kechaoda A26,Kechaoda,4.1,"6,703",564,930,930,0,,,16 GB,0.66,,800,,
+435,Kechaoda K116,Kechaoda,3.9,"2,506",249,"1,075","1,149",6,,,32 GB,1.8,1.3,400,,
+436,Kechaoda A26,Kechaoda,4.1,"6,703",564,935,935,0,,,16 GB,0.66,,800,,
+437,Kechaoda K116,Kechaoda,3.9,"2,506",249,"1,099","1,149",4,,,32 GB,1.8,1.3,400,,
+438,LAVA A5,LAVA,4.1,"5,483",543,"1,205","1,339",10,,,32 GB,2.4,0.3,1000,,
+439,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+440,"REDMI Note 9 (Pebble Grey, 128 GB)",REDMI,4.3,"3,001",199,"13,999","18,999",26,6,128,512 GB,6.53,48,5020,MediaTek Helio G85,
+441,"SAMSUNG M01 core (Blue, 16 GB)",SAMSUNG,4,"6,165",501,"5,490","6,500",15,1,16,512 GB,5.3,8,3000,MediaTek | MT6739WW quad core,
+442,Snexian Rock,Snexian,4,"8,903",588,"1,299","1,999",35,,,,1.7,0.3,800,,
+443,"I Kall K201 (Dark Blue, 16 GB)",I,3.1,"1,382",128,"4,849","5,299",8,2,16,,6.26,8,3000,,
+444,Micromax X421,Micromax,4,"1,453",129,941,941,0,,,,1.77,0.3,1800,,
+445,"Tecno POVA (Dazzle Black, 128 GB)",Tecno,4.2,"1,054",115,"12,499","13,999",10,6,128,256 GB,6.8,16,6000,MediaTek Helio G80,
+446,Nokia 3310 DS 2020,Nokia,3.8,"30,225","3,273","3,599","4,399",18,,,32 GB,2.4,2,1200,,
+447,Itel IT2163,Itel,4,"3,494",314,839,839,0,,,32 GB,1.8,,1000,SC6531E,
+448,Kechaoda K66 Plus,Kechaoda,4,"19,657","1,656",989,989,0,,,32 GB,1.8,0.3,400,,
+449,"I Kall K 500 (Blue, 64 GB)",I,3,772,76,"6,399","6,649",3,4,64,,6.26,8,3000,,
+450,Kechaoda K66 Plus,Kechaoda,4,"19,657","1,656",999,"1,049",4,,,,1.77,0.3,400,,
+451,"Redmi 9 Prime (Sunrise Flare, 128 GB)",Redmi,4.4,"93,668","6,291","13,149","13,149",0,4,128,512 GB,6.53,13,5020,MediaTek Helio G80,
+452,"APPLE iPhone 12 Mini (Black, 128 GB)",APPLE,4.5,"1,088",96,"70,900","74,900",5,,128,,5.4,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+453,"I Kall K900 (Dark Blue, 64 GB)",I,3,"4,998",540,"5,699","5,699",0,4,64,,5.5,8,3000,,
+454,"OPPO F19 Pro+ 5G (Fluid Black, 128 GB)",OPPO,4.7,14,1,"25,990","29,990",13,8,128,256 GB,6.43,48,4310,MediaTek Dimensity 800U,"18,500"
+455,Lava Pulse Mobile Phone-With BP & Heart Rate Monitor,Lava,4.1,"1,348",189,"1,495","1,949",23,,,32 GB,2.4,0.3,1750,,950
+456,"APPLE iPhone 12 Mini (Blue, 128 GB)",APPLE,4.5,"1,088",96,"70,900","74,900",5,,128,,5.4,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+457,"SAMSUNG Galaxy M01 (Blue, 32 GB)",SAMSUNG,4.2,"17,846","1,332","7,917","9,999",20,3,32,512 GB,5.7,13,4000,Qualcomm Snapdragon (SDM439) Octa Core,
+458,"Redmi Note 9 Pro (Glacier White, 128 GB)",Redmi,4.4,"20,104","1,433","14,937","17,999",17,4,128,512 GB,6.67,48,5020,Qualcomm® Snapdragon™ 720G,
+459,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+460,"ViVO V15 Pro (Topaz Blue, 128 GB)",ViVO,4.5,"31,001","2,849","18,990","18,990",0,6,128,256 GB,6.39,48,3700,Qualcomm Snapdragon 675AIE Octa Core 2.0GHz,
+461,Kechaoda K10,Kechaoda,4,"8,913",648,899,999,10,,,,0.66,,300,,
+462,Micromax X817,Micromax,4,"1,562",157,"1,899","1,899",0,,,,2.8,0.3,1750,,
+463,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+464,"Moto G 5G (Volcanic Grey, 128 GB)",Moto,4.2,"11,620","1,326","20,999","24,999",16,6,128,1 TB,6.67,48,5000,Qualcomm Snapdragon 750G,"16,500"
+465,Kechaoda A27,Kechaoda,4.1,"3,119",279,920,920,0,,,16 GB,0.66,,800,,
+466,"SAMSUNG Galaxy M02 (Gray, 32 GB)",SAMSUNG,4.1,284,28,"7,479","7,498",0,2,32,,6.55,13,5000,MediaTek MT6739,
+467,LAVA A7 2020,LAVA,4,660,66,"1,449","1,829",20,,,32 GB,2.4,0.3,1800,,500
+468,Grabo ELUGA,Grabo,3.8,744,62,705,779,9,,,,1.8,0.3,1000,,
+469,"I Kall K201 (Dark Blue, 16 GB)",I,3.1,"1,382",128,"4,849","5,299",8,2,16,,6.26,8,3000,,
+470,KARBONN KX26i,KARBONN,4,204,18,"1,049","1,049",0,,,,2.4,,1450,,
+471,Snexian Rock,Snexian,4,"8,903",588,"1,299","1,349",3,,,,1.7,0.3,800,,
+472,Snexian Rock,Snexian,4,"8,903",588,"1,199","1,285",6,,,,1.7,0.3,800,,
+473,"I Kall K 500 (Blue, 64 GB)",I,3,772,76,"6,399","6,649",3,4,64,,6.26,8,3000,,
+474,"Nokia 2.4 (Dusk Purple, 64 GB)",Nokia,4.1,551,60,"10,399","11,499",9,3,64,512 GB,6.5,13,4500,MediaTek Helio P22,"9,750"
+475,I Kall K 18 NEW,I,3.7,"2,073",212,999,"1,099",9,,,,2.4,0.3,2500,,
+476,Snexian Rock,Snexian,4,"8,903",588,"1,240","1,285",3,,,,1.7,0.3,800,,
+477,"OPPO F19 Pro+ 5G (Space Silver, 128 GB)",OPPO,4.7,14,1,"25,990","29,990",13,8,128,256 GB,6.43,48,4310,MediaTek Dimensity 800U,"18,500"
+478,Micromax X1i-2017,Micromax,3.8,"1,790",221,939,939,0,,,8 GB,2.4,0.8,1300,,
+479,"I Kall K900 (Dark Blue, 64 GB)",I,3,"4,998",540,"5,699","5,699",0,4,64,,5.5,8,3000,,
+480,"ViVO X60 (Midnight Black, 256 GB)",ViVO,4.4,178,33,"41,990","46,990",10,12,256,,6.56,48,4300,Qualcomm Snapdragon 870,"18,500"
+481,"SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",SAMSUNG,4.3,"9,039","1,067","20,999","25,999",19,6,128,512 GB,6.5,48,4000,Exynos 9611,"16,500"
+482,Tork T13 Banana,Tork,4,542,45,849,849,0,,,8 GB,2.4,0.3,1000,,
+483,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+484,Tork T13 Banana,Tork,4,542,45,849,849,0,,,8 GB,2.4,0.3,1000,,
+485,GREENBERRI F1,GREENBERRI,4,292,20,"1,450","1,450",0,,,32 GB,1.77,0.8,1050,,
+486,GREENBERRI F1,GREENBERRI,4,292,20,"1,450","1,450",0,,,32 GB,1.77,0.8,1050,,
+487,Kechaoda K-55 Plus,Kechaoda,4,"8,252",751,988,988,0,,,,1.77,0.3,850,,
+488,SAMSUNG Guru Music 2 SM-B310E,SAMSUNG,4.2,"5,783",444,"1,949","1,949",0,,,16 GB,2,0,800,0 0 0 208MHz,
+489,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+490,"SAMSUNG Galaxy A21s (Blue, 64 GB)",SAMSUNG,4.2,"17,885","1,676","12,999","17,999",27,4,64,512 GB,6.5,48,5000,Exynos 850 Octa Core,"12,150"
+491,"Itel A48 (Gradation Green, 32 GB)",Itel,3.9,252,17,"5,985","5,985",0,2,32,128 GB,6.1,5,3000,Quad Core,
+492,"Itel A48 (Gradation Black, 32 GB)",Itel,3.9,252,17,"5,985","5,985",0,2,32,128 GB,6.1,5,3000,Quad Core,
+493,Kechaoda A27,Kechaoda,4.1,"3,121",279,915,915,0,,,16 GB,0.66,,800,,
+494,"OPPO A15s (Dynamic Black, 64 GB)",OPPO,4.3,413,18,"11,490","13,990",17,4,64,,6.52,13,4230,,"10,850"
+495,"OPPO A15S (Rainbow Silver, 64 GB)",OPPO,4.3,413,18,"11,490","13,990",17,4,64,,6.52,13,4230,,"10,850"
+496,"OPPO A15s (Dynamic Black, 128 GB)",OPPO,4.3,413,18,"12,188","12,188",0,4,128,,6.52,13,4230,,
+497,"realme C3 (Blazing Red, 32 GB)",realme,4.4,"1,36,808","10,396","8,999","8,999",0,3,32,256 GB,6.52,12,5000,Helio G70,
+498,"OPPO A15s (Rainbow Silver, 128 GB)",OPPO,4.3,413,18,"12,489","13,990",10,4,128,,6.52,13,4230,,
+499,"realme C3 (Frozen Blue, 32 GB)",realme,4.4,"1,36,808","10,396","8,999","8,999",0,3,32,256 GB,6.52,12,5000,Helio G70,
+500,"Mi 10i (Pacific Sunrise, 128 GB)",Mi,4.3,922,74,"23,799","23,799",0,6,128,,6.67,108,4820,Qualcomm® Snapdragon™ 750G,
+501,Itel Muzik 400,Itel,4.1,"1,344",155,"1,490","1,490",0,,,32 GB,2.4,0.3,3000,ARM9 architecture (Single core),
+502,LAVA A9,LAVA,4.1,"2,395",256,"1,632","1,632",0,,,32 GB,2.8,1.3,1700,,
+503,"APPLE iPhone 12 (Green, 128 GB)",APPLE,4.6,"2,699",234,"82,900","84,900",2,,128,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+504,"APPLE iPhone 12 (Blue, 64 GB)",APPLE,4.6,"2,699",234,"77,900","79,900",2,,64,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+505,"SAMSUNG Galaxy A12 (Blue, 128 GB)",SAMSUNG,4.2,"1,048",83,"13,999","14,999",6,4,128,1 TB,6.5,48,5000,Mediatek Helio P35 (MT6765),"13,450"
+506,"SAMSUNG Galaxy M02 (Blue, 32 GB)",SAMSUNG,4,270,30,"8,095","8,490",4,3,32,,6.55,13,5000,MediaTek MT6739,
+507,"LAVA Z66 (Marine Blue, 32 GB)",LAVA,4,"3,852",566,"7,227","8,499",14,3,32,128 GB,6.08,13,3950,Octa Core,
+508,I Kall K44 new mobile,I,3.7,904,64,669,719,6,,,8 GB,1.8,0.3,800,,
+509,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+510,"realme X3 SuperZoom (Arctic White, 128 GB)",realme,4.4,"7,493",822,"22,999","29,999",23,8,128,,6.57,64,4200,Qualcomm Snapdragon 855+,"16,500"
+511,BlackBear I7 Trio,BlackBear,3.6,"4,103",415,"1,649","1,649",0,,,,2,1.8,1550,,
+512,Grabo ELUGA,Grabo,3.8,744,62,705,779,9,,,,1.8,0.3,1000,,
+513,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+514,"Redmi 8A Dual (Sky White, 32 GB)",Redmi,4.2,"13,307",886,"8,299","8,999",7,3,32,512 GB,6.22,13,5000,Qualcomm Snapdragon 439,
+515,"Itel vision 1 pro (OCEAN BLUE, 32 GB)",Itel,3.7,37,3,"6,699","6,699",0,2,32,,6.52,8,4000,,
+516,"SAMSUNG Galaxy M02 (Red, 32 GB)",SAMSUNG,4.1,286,28,"7,478","7,559",1,2,32,,6.55,13,5000,MediaTek MT6739,
+517,KARBONN K140 Pop,KARBONN,3.9,"3,830",357,849,859,1,,,16 GB,1.8,0.3,1000,,
+518,"REDMI Note 10 Pro (Vintage Bronze, 128 GB)",REDMI,4.4,32,3,"21,726","21,999",1,8,128,512 GB,6.67,64,5020,Qualcomm Snapdragon 732G,
+519,KARBONN k310n,KARBONN,3.8,"2,415",319,799,799,0,,,,1.8,0.3,800,,
+520,"ViVO V20 (Midnight Jazz, 128 GB)",ViVO,4.3,"21,524","2,405","24,990","27,990",10,8,128,1 TB,6.44,64,4000,Qualcomm Snapdragon 720G,"16,500"
+521,"Redmi 8A Dual (Sea Blue, 32 GB)",Redmi,4.3,"46,408","3,527","7,990","8,290",3,2,32,512 GB,6.22,13,5000,Qualcomm Snapdragon 439,
+522,Kechaoda K60,Kechaoda,4,"1,125",109,"1,499","1,648",9,,,16 GB,2.4,0.3,3600,,
+523,Kechaoda K66 The Music House 4,Kechaoda,4,"6,355",600,"1,199","1,199",0,,,32 GB,1.8,1.3,400,,
+524,MU M5000,MU,4,277,37,"1,099","1,099",0,,,,2.8,1.3,2500,,
+525,MU M5000,MU,4,277,37,"1,099","1,187",7,,,,2.8,1.3,2500,,
+526,Geotel K9 Flip,Geotel,4,31,0,"1,249","1,329",6,,,,1.7,0.3,1200,,
+527,"MOTOROLA E7 Power (Coral Red, 32 GB)",MOTOROLA,4.2,420,35,"7,499","9,999",25,2,32,1 TB,6.51,13,5000,MediaTek Helio G25,
+528,Kechaoda K66 Plus,Kechaoda,4,"19,659","1,657",985,999,1,,,32 GB,1.8,0.3,400,,
+529,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+530,"Itel A25 Pro (Gradation Purple, 32 GB)",Itel,4,395,38,"4,999","5,999",16,2,32,32 GB,5,5,3020,Unisoc 9832E Quad Core,"4,450"
+531,"Itel A25 Pro (Gradation Green, 32 GB)",Itel,4,395,38,"4,999","5,999",16,2,32,32 GB,5,5,3020,Unisoc 9832E Quad Core,"4,450"
+532,"SAMSUNG GALAXY M51 (ELECTRIC BLUE, 128 GB)",SAMSUNG,4.3,894,69,"24,465","24,465",0,6,128,,6.7,64,7000,,
+533,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+534,I Kall K666+ SMART SERIES,I,3.8,44,5,"1,299","1,349",3,,,16 MB,2.8,2,3000,,
+535,KARBONN KX26i,KARBONN,4,204,18,"1,049","1,049",0,,,,2.4,,1450,,
+536,Kechaoda K30,Kechaoda,3.9,464,26,"1,049","1,349",22,,,,1.54,,800,,
+537,Itel It 2161,Itel,4,289,27,849,849,0,,,32 GB,1.8,,1000,,
+538,Micromax J1,Micromax,3.8,35,2,799,799,0,,,8 GB,1.77,,600,,
+539,"OPPO A1K (Red, 32 GB)",OPPO,4.3,"13,200",846,"7,990","10,990",27,2,32,256 GB,6.1,8,4000,MediaTek Helio P22,
+540,"APPLE iPhone 12 (Blue, 128 GB)",APPLE,4.6,"2,699",234,"82,900","84,900",2,,128,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+541,"APPLE iPhone 12 Mini (White, 128 GB)",APPLE,4.5,"1,097",95,"70,900","74,900",5,,128,,5.4,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+542,Itel IT2173,Itel,3.4,16,0,998,999,0,,,,1.8,0.3,1000,,
+543,"realme X3 SuperZoom (Glacier Blue, 256 GB)",realme,4.3,"2,063",259,"27,999","34,999",20,12,256,,6.57,64,4200,Qualcomm Snapdragon 855+,"16,500"
+544,I Kall k6300 NEW,I,3.5,"1,464",192,"1,199","1,249",4,,,,2.8,2,3000,,
+545,"realme X3 SuperZoom (Glacier Blue, 128 GB)",realme,4.4,"7,493",822,"22,999","29,999",23,8,128,,6.57,64,4200,Qualcomm Snapdragon 855+,"16,500"
+546,"REDMI 9i (Nature Green, 128 GB)",REDMI,4.3,"2,55,537","14,521","9,710","9,827",1,4,128,512 GB,6.53,13,5000,MediaTek Helio G25,
+547,"realme X3 SuperZoom (Arctic White, 256 GB)",realme,4.4,"7,493",822,"24,999","31,999",21,8,256,,6.57,64,4200,Qualcomm Snapdragon 855+,"16,500"
+548,Itel Magic2 Max,Itel,4.2,153,12,"1,469","1,469",0,,,32 GB,2.8,1.3,1900,SC6531C,
+549,I Kall K48+ GOLD SERIES,I,3.2,6,0,749,799,6,,,8 GB,1.8,0.3,2500,,
+550,"APPLE iPhone 12 (White, 64 GB)",APPLE,4.6,"2,699",234,"77,900","79,900",2,,64,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+551,"SAMSUNG Galaxy A21s (Black, 128 GB)",SAMSUNG,4.2,"6,493",608,"18,999","18,999",0,6,128,512 GB,6.5,48,5000,Exynos 850 Octa Core,"16,500"
+552,"ASUS ROG Phone 3 (Black, 128 GB)",ASUS,4.4,"3,079",533,"49,999","57,999",13,12,128,,6.59,64,6000,Qualcomm Snapdragon 865+ (SM8250),"16,500"
+553,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+554,"Panasonic Eluga I8 (Charcoal Black, 32 GB)",Panasonic,3.9,"2,042",236,"6,999","6,999",0,3,32,512 GB,6.22,13,4000,Meditek,
+555,"APPLE iPhone 12 (White, 128 GB)",APPLE,4.6,"2,699",234,"82,900","84,900",2,,128,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+556,"Apple iPhone XR ((PRODUCT)RED, 128 GB) (Includes EarPods, Power Adapter)",Apple,4.6,"81,233","6,932","46,999","52,900",11,,128,,6.1,12,,A12 Bionic Chip,"16,500"
+557,Kechaoda K33,Kechaoda,4,"4,562",353,989,"1,099",10,,,,1.4,0.3,800,,
+558,"Redmi 9A (Sea Blue, 32 GB)",Redmi,4.3,"4,320",265,"7,805","7,914",1,3,32,512 GB,6.53,13,5000,MediaTek Helio G25,
+559,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+560,I Kall K666,I,3.7,325,37,"1,249","1,299",3,,,,2.8,2,3000,,
+561,"LAVA Z61 Pro (Lavender Blue, 16 GB)",LAVA,4,"3,125",372,"5,777","6,499",11,2,16,128 GB,5.45,8,3100,Unisoc Octa Core,
+562,"LAVA Z61 Pro (Champagne Gold, 16 GB)",LAVA,4,"3,125",372,"5,777","6,499",11,2,16,128 GB,5.45,8,3100,Unisoc Octa Core,
+563,"APPLE iPhone 11 Pro (Midnight Green, 64 GB)",APPLE,4.6,"7,238",535,"79,999","1,06,600",24,,64,,5.8,12,,A13 Bionic Chip,"16,500"
+564,Kechaoda K116,Kechaoda,3.9,"2,508",249,999,999,0,,,,1.44,,400,0 0 0 0,
+565,Nuvo One-Echo (Without Accessories),Nuvo,3.7,"1,268",170,649,649,0,,,16 GB,1.8,1.3,800,,
+566,Kechaoda K116,Kechaoda,3.9,"9,989","1,218","1,199","1,199",0,,,,2.44,,400,0 0 0 0,
+567,I Kall K 48,I,3.7,"3,764",329,719,819,12,,,,1.8,0.3,1500,,
+568,I Kall K 48,I,3.7,"3,764",329,719,829,13,,,,1.8,0.3,1500,,
+569,"Itel A25 Pro (Gradation Blue, 32 GB)",Itel,4,395,38,"4,999","5,999",16,2,32,32 GB,5,5,3020,Unisoc 9832E Quad Core,"4,450"
+570,"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",SAMSUNG,4.3,"9,039","1,067","20,999","25,999",19,6,128,512 GB,6.5,48,4000,Exynos 9611,"16,500"
+571,"OPPO F17 (Navy Blue, 128 GB)",OPPO,4.2,"4,963",393,"16,990","20,990",19,6,128,,6.44,16,4015,Qualcomm Snapdragon 662,"15,650"
+572,"OPPO F17 (Dynamic Orange, 128 GB)",OPPO,4.2,"4,963",393,"16,990","20,990",19,6,128,,6.44,16,4015,Qualcomm Snapdragon 662,"15,650"
+573,LAVA A1200,LAVA,4.2,"2,021",238,"1,199","1,199",0,,,32 GB,1.8,0.3,1750,,
+574,"REDMI 9 Power (Electric Green, 128 GB)",REDMI,4.3,"15,765","1,230","11,999","15,999",25,4,128,,6.53,48,6000,Qualcomm Snapdragon 662,
+575,KARBONN KX23,KARBONN,4,"1,446",112,"1,149","1,490",22,,,,2.4,0.08,1900,,
+576,"REDMI 9 Power (Electric Green, 128 GB)",REDMI,4.3,"15,685","1,221","11,999","15,999",25,4,128,,6.53,48,6000,Qualcomm Snapdragon 662,"11,200"
+577,Kechaoda K60,Kechaoda,4,"1,125",109,"1,499","1,648",9,,,16 GB,2.4,0.3,3600,,
+578,"Redmi Note 8 (Cosmic Purple, 64 GB)",Redmi,4.4,"50,704","3,704","12,999","13,999",7,4,64,512 GB,6.3,48,4000,Qualcomm Snapdragon 665,
+579,"I Kall K 320 (Purple, 64 GB)",I,3.2,"2,333",199,"6,499","6,799",4,4,64,,6.53,13,4000,,
+580,Kechaoda K-55 Plus,Kechaoda,4,"8,252",751,999,999,0,,,,1.77,0.3,850,,
+581,"OPPO A1K (Black, 32 GB)",OPPO,4.3,"13,200",846,"7,990","10,990",27,2,32,256 GB,6.1,8,4000,MediaTek Helio P22,"7,300"
+582,Grabo G312,Grabo,3.6,"2,658",203,739,779,5,,,,1.8,0.3,1000,,
+583,"I Kall K475 (Black, 64 GB)",I,2.8,73,9,"6,499","6,499",0,4,64,,6.53,13,4000,,
+584,"REDMI Note 9 Pro Max (Aurora Blue, 64 GB)",REDMI,4.4,"30,490","2,449","16,999","16,999",0,6,64,512 GB,6.67,64,5020,Qualcomm Snapdragon 720G,
+585,KARBONN KX23,KARBONN,4,"1,444",112,"1,215","1,215",0,,,,2.4,0.08,1900,,
+586,"realme 3 (Radiant Blue, 64 GB)",realme,4.4,"1,71,971","16,646","10,499","12,999",19,4,64,256 GB,6.22,13,4230,MediaTek Helio P70 Octa Core 2.1 GHz AI,"9,950"
+587,LAVA A7 2020,LAVA,4,660,66,"1,449","1,829",20,,,32 GB,2.4,0.3,1800,,500
+588,"SAMSUNG Galaxy A12 (Black, 64 GB)",SAMSUNG,4.2,"1,045",83,"12,999","13,999",7,4,64,1 TB,6.5,48,5000,Mediatek Helio P35 (MT6765),"12,150"
+589,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+590,SAMSUNG Guru FM Plus,SAMSUNG,4.2,"21,991","2,023","1,575","1,585",0,,,,1.5,0,800,no,
+591,"Itel vision 1 pro (AURORA BLUE, 32 GB)",Itel,3.7,37,3,"6,549","6,599",0,2,32,,6.52,8,4000,,
+592,"ViVO X60 Pro (Midnight Black, 256 GB)",ViVO,4.5,288,51,"49,990","54,990",9,12,256,,6.56,48,4200,Qualcomm Snapdragon 870,"19,000"
+593,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+594,"ViVO X60 Pro (Shimmer Blue, 256 GB)",ViVO,4.5,288,51,"49,990","54,990",9,12,256,,6.56,48,4200,Qualcomm Snapdragon 870,"19,000"
+595,"Redmi Note 8 (Moonlight White, 64 GB)",Redmi,4.4,"50,704","3,704","13,999","13,999",0,4,64,512 GB,6.3,48,4000,Qualcomm Snapdragon 665,
+596,Salora Kiano,Salora,4,244,31,"1,249","1,349",7,,,,2.4,1.3,1200,Spreadtrum,
+597,Salora Kiano,Salora,4,244,31,"1,249","1,249",0,,,,2.4,1.3,1200,Spreadtrum,
+598,BlackZone ECO X,BlackZone,3.8,477,44,"1,390","1,470",5,,,,1.44,0.3,1000,,
+599,"I Kall K450 (Blue, 16 GB)",I,3.4,140,8,"4,199","4,199",0,2,16,,5.5,5,2500,,
+600,LAVA A7 2020,LAVA,4,660,66,"1,449","1,829",20,,,32 GB,2.4,0.3,1800,,500
+601,GREENBERRI F1,GREENBERRI,4,292,20,"1,450","1,450",0,,,32 GB,1.77,0.8,1050,,
+602,"SAMSUNG Galaxy M51 (Celestial Black, 128 GB)",SAMSUNG,4.4,378,30,"25,477","25,477",0,8,128,,6.7,64,7000,,
+603,Geotel K9 Flip,Geotel,4,31,0,"1,249","1,349",7,,,,1.7,0.3,1200,,
+604,LAVA 34 Ultra,LAVA,4.2,124,16,"1,458","1,599",8,,,64 GB,2.4,0.8,2575,,950
+605,"Redmi 8A Dual (Midnight Grey, 32 GB)",Redmi,4.2,"13,307",886,"8,470","8,470",0,3,32,512 GB,6.22,13,5000,Qualcomm Snapdragon 439,
+606,"SAMSUNG M01 core (Red, 32 GB)",SAMSUNG,3.9,"6,596",570,"6,211","7,999",22,2,32,512 GB,5.3,8,3000,MediaTek | MT6739WW quad core,
+607,"SAMSUNG Galaxy A12 (White, 64 GB)",SAMSUNG,4.2,"1,048",83,"12,999","13,999",7,4,64,1 TB,6.5,48,5000,Mediatek Helio P35 (MT6765),"12,150"
+608,"APPLE iPhone 12 Mini (Red, 64 GB)",APPLE,4.5,"1,097",95,"65,900","69,900",5,,64,,5.4,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+609,I Kall K444,I,3.7,690,52,999,"1,099",9,,,,2.4,0.3,2500,,
+610,Micromax X816,Micromax,4.1,103,7,"1,354","1,368",1,,,,2.8,0.3,1750,,
+611,Kechaoda K 06,Kechaoda,3.9,121,10,"1,140","1,140",0,,,,1.8,1.3,1000,,
+612,"SAMSUNG Galaxy M02 (Blue, 32 GB)",SAMSUNG,4.1,286,28,"7,537","7,549",0,2,32,,6.55,13,5000,MediaTek MT6739,
+613,Micromax X752,Micromax,4.2,98,17,"1,275","1,282",0,,,,2.4,0.3,1800,,
+614,Kechaoda K10,Kechaoda,4,"8,917",648,847,847,0,,,,0.66,,300,,
+615,Good One Magic,Good,4,"2,200",188,"1,499","1,499",0,,,,1.7,2,1050,,
+616,"SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",SAMSUNG,4.3,"9,039","1,067","20,999","25,999",19,6,128,512 GB,6.5,48,4000,Exynos 9611,"16,500"
+617,I Kall K3310 Combo Of Two Mobile,I,3.7,"9,697",952,"1,289","1,299",0,,,8 GB,1.8,0.3,800,,
+618,"realme 6 Pro (Lightning Blue, 128 GB)",realme,4.4,"30,092","3,525","19,999","19,999",0,8,128,256 GB,6.6,64,4300,Snapdragon 720G,"16,500"
+619,"SAMSUNG Galaxy M51 (Electric Blue, 128 GB)",SAMSUNG,4.4,378,30,"25,379","25,599",0,8,128,,6.7,64,7000,,
+620,"Nokia 2.4 (Fjord Blue, 64 GB)",Nokia,4.1,551,60,"10,399","11,499",9,3,64,512 GB,6.5,13,4500,MediaTek Helio P22,"9,750"
+621,KARBONN KX1Indian,KARBONN,4,280,21,875,875,0,,,32 GB,1.8,0.08,1000,,
+622,Kechaoda K-55 Plus,Kechaoda,4,"8,252",751,999,"1,149",13,,,,1.77,0.3,850,,
+623,"Apple iPhone SE (Black, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.5,"98,234","8,353","47,999","54,900",12,,256,,4.7,12,,A13 Bionic Chip with 3rd Gen Neural Engine,"16,500"
+624,"OPPO F17 (Classic Silver, 128 GB)",OPPO,4.2,"4,963",393,"16,990","20,990",19,6,128,,6.44,16,4015,Qualcomm Snapdragon 662,"15,650"
+625,"Voto V2i (Gold, 16 GB)",Voto,3.3,"1,097",146,"3,990","3,990",0,2,16,64 GB,5,13,3000,,
+626,MU M370,MU,4.3,400,22,975,975,0,,,,1.44,0.3,700,,
+627,LAVA A1200,LAVA,4.2,"2,021",238,"1,277","1,277",0,,,32 GB,1.8,0.3,1750,,
+628,"SAMSUNG Galaxy A21s (Black, 64 GB)",SAMSUNG,4.2,"17,885","1,676","14,990","14,990",0,4,64,512 GB,6.5,48,5000,Exynos 850 Octa Core,
+629,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+630,"Redmi Note 8 (Neptune Blue, 64 GB)",Redmi,4.4,"50,713","3,704","13,999","13,999",0,4,64,512 GB,6.3,48,4000,Qualcomm Snapdragon 665,
+631,Micromax X749,Micromax,4.1,"2,568",309,"1,220","1,221",0,,,,2.4,0.3,1750,,
+632,LAVA Gem Wave,LAVA,4.1,144,14,"1,599","1,599",0,,,32 GB,2.8,1.3,1750,,
+633,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+634,"LAVA BEU (ROSE PINK, 32 GB)",LAVA,0,0,0,"6,388","7,777",17,2,32,,6.08,13,4060,,
+635,Nokia 3310 DS 2020,Nokia,3.8,"30,232","3,274","3,599","3,599",0,,,32 GB,2.4,2,1200,,
+636,BlackZone B-312 Gold,BlackZone,3.7,412,28,799,869,8,,,32 GB,1.8,0.3,1000,,
+637,"SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)",SAMSUNG,4.2,913,76,"22,495","22,495",0,6,128,,6.5,64,6000,,
+638,"Redmi Note 9 Pro (Champagne Gold, 128 GB)",Redmi,4.4,"20,122","1,433","14,999","17,995",16,4,128,512 GB,6.67,48,5020,Qualcomm® Snapdragon™ 720G,
+639,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+640,"POCO M2 (Pitch Black, 128 GB)",POCO,4.3,"3,56,044","26,888","11,499","14,999",23,6,128,512 GB,6.53,13,5000,MediaTek Helio G80,
+641,Kechaoda K30,Kechaoda,3.9,464,26,"1,199","1,349",11,,,,1.54,,800,,
+642,Kechaoda K30,Kechaoda,3.9,464,26,"1,199","1,349",11,,,,1.54,,800,,
+643,"ViVO Y50 (Pearl White, 128 GB)",ViVO,4.4,"17,179","1,260","16,490","19,990",17,8,128,256 GB,6.53,13,5000,Qualcomm Snapdragon 665,"15,650"
+644,KARBONN KX26i,KARBONN,4,204,18,"1,049","1,049",0,,,,2.4,,1450,,
+645,Kechaoda K6,Kechaoda,3.9,"1,270",136,855,855,0,,,,1.75,0.1,1800,,
+646,BlackZone EVEREST,BlackZone,3.9,444,38,779,849,8,,,,1.8,0.3,1000,,
+647,Kechaoda K33,Kechaoda,4,"4,562",353,989,"1,099",10,,,,1.4,0.3,800,,
+648,"SAMSUNG Galaxy M12 (Blue, 128 GB)",SAMSUNG,4.7,6,0,"14,549","15,499",6,6,128,,6.5,48,6000,,
+649,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+650,Itel U10,Itel,4.1,247,20,970,970,0,,,,1.8,0.3,1400,,
+651,Itel U10,Itel,4.1,247,20,"1,049","1,049",0,,,,1.8,,1400,,
+652,Itel U10,Itel,4.1,247,20,"1,049","1,049",0,,,,1.8,,1400,,
+653,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+654,"SAMSUNG Galaxy M12 (Black, 128 GB)",SAMSUNG,4.7,6,0,"14,559","15,499",6,6,128,,6.5,48,6000,,
+655,BlackZone S16,BlackZone,3.9,72,9,"1,029","1,099",6,,,32 GB,2.4,0.3,3000,,
+656,Good One 5605N,Good,3.8,90,9,799,799,0,,,32 GB,1.8,2,2500,,
+657,"OPPO A11K (Deep Blue, 32 GB)",OPPO,4.2,"5,142",401,"8,490","10,990",22,2,32,256 GB,6.22,13,4230,MediaTek Helio P35 Octa Core,
+658,"Nokia C3 (Nordic Blue, 16 GB)",Nokia,3.9,"1,037",80,"7,199","8,499",15,2,16,128 GB,5.99,8,3040,SC9863A Octa Core,"6,650"
+659,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+660,DETEL D1 Guru,DETEL,3.6,"7,659",744,725,749,3,,,,1.8,0.3,1000,,
+661,"SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",SAMSUNG,4.3,"3,304",314,"22,499","29,999",25,8,128,512 GB,6.5,48,4000,Exynos 9611,"16,500"
+662,Kechaoda K9,Kechaoda,4.1,"1,464",151,"1,140","1,140",0,,,16 GB,2.4,0.3,1700,,
+663,"LAVA Z2 (Aqua Blue, 32 GB)",LAVA,0,0,0,"7,399","7,999",7,2,32,512 GB,6.517,13,5000,MediaTek Helio G35,"6,850"
+664,"OPPO A5 (Diamond Red, 64 GB)",OPPO,4.4,"14,060","1,103","10,999","11,990",8,4,64,256 GB,6.2,13,4230,Qualcomm Snapdragon 450,
+665,KARBONN K5 Plus,KARBONN,4,"1,120",101,898,898,0,,,32 GB,1.8,0.08,1750,,
+666,"LAVA Z2 (Flame Red, 32 GB)",LAVA,0,0,0,"7,399","7,999",7,2,32,512 GB,6.517,13,5000,MediaTek Helio G35,"6,850"
+667,"realme X2 (Pearl Green, 128 GB)",realme,4.5,"45,101","5,199","20,999","20,999",0,8,128,,6.4,64,4000,Qualcomm Snapdragon 730G,"16,500"
+668,I Kall K2180,I,3.7,"11,204","1,256",669,769,13,,,,1.8,0.3,800,,
+669,BlackZone TURBO 353,BlackZone,4.1,232,26,849,919,7,,,32 GB,1.8,0.3,2500,,
+670,"realme Narzo 10A (So White, 32 GB)",realme,4.5,"53,265","3,753","9,950","9,950",0,3,32,256 GB,6.52,12,5000,MediaTek Helio G70 (12 nm),
+671,"realme Narzo 10A (So Blue, 32 GB)",realme,4.5,"53,265","3,753","9,850","9,850",0,3,32,256 GB,6.52,12,5000,MediaTek Helio G70 (12 nm),
+672,Kechaoda K123,Kechaoda,4.1,217,36,"1,749","1,899",7,,,,2.8,2,600,,
+673,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+674,Itel Power 100 New,Itel,4.8,9,2,"1,149","1,149",0,,,32 GB,1.8,0.3,2500,SC6531E,
+675,Kechaoda K123,Kechaoda,4.1,217,36,"1,749","1,799",2,,,,2.8,2,600,,
+676,LAVA A1200,LAVA,4.2,"2,021",238,"1,277","1,277",0,,,32 GB,1.8,0.3,1750,,
+677,"APPLE iPhone 12 Mini (White, 64 GB)",APPLE,4.5,"1,097",95,"65,900","69,900",5,,64,,5.4,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+678,"APPLE iPhone 12 (Black, 128 GB)",APPLE,4.6,"2,699",234,"82,900","84,900",2,,128,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+679,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+680,"ViVO X60 (Shimmer Blue, 128 GB)",ViVO,4.5,247,51,"37,990","42,990",11,8,128,,6.56,48,4300,Qualcomm Snapdragon 870,"18,500"
+681,"SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",SAMSUNG,4.2,"9,941",834,"10,449","10,590",1,3,32,512 GB,6.4,13,5000,Qualcomm Snapdragon (SDM450-F01) Octa Core,
+682,"OPPO F17 (Navy Blue, 128 GB)",OPPO,4.3,753,58,"19,990","19,990",0,8,128,,6.44,16,4015,Qualcomm Snapdragon 662,
+683,"SAMSUNG Galaxy M11 (Black, 64 GB)",SAMSUNG,4.3,"6,570",531,"10,733","14,499",25,4,64,512 GB,6.4,13,5000,Qualcomm Snapdragon (SDM450-F01) Octa Core,
+684,Kechaoda K80,Kechaoda,3.5,19,3,"1,799","1,999",10,,,16 GB,2.8,1.3,6000,,
+685,"MOTOROLA G30 (Pastel Sky, 64 GB)",MOTOROLA,4,"9,220","1,024","10,999","14,999",26,4,64,,6.51,64,5000,Snapdragon 662,"10,350"
+686,Kechaoda K28,Kechaoda,4.1,"1,510",140,"1,047","1,080",3,,,16 GB,2.4,0.3,1700,,
+687,"SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",SAMSUNG,4.3,"3,304",314,"22,499","29,999",25,8,128,512 GB,6.5,48,4000,Exynos 9611,"16,500"
+688,Muphone M350,Muphone,4,23,1,899,899,0,,,,1.44,1.3,800,,
+689,Kechaoda K1,Kechaoda,4,144,12,"1,099","1,299",15,,,,2.8,1.3,2600,,
+690,Kechaoda K1,Kechaoda,4,144,12,"1,099","1,199",8,,,,2.8,1.3,2600,,
+691,"Nokia 3.4 (Fjord, 64 GB)",Nokia,3.9,119,14,"11,999","13,999",14,4,64,512 GB,6.39,13,4000,Qualcomm Snapdragon 460,"11,350"
+692,Kechaoda A26,Kechaoda,4.1,"6,706",564,930,930,0,,,16 GB,0.66,,800,,
+693,Salora Coral,Salora,3.9,87,15,749,749,0,,,,2.4,1.3,1800,,
+694,GREENBERRI F1,GREENBERRI,4,292,20,"1,450","1,450",0,,,32 GB,1.77,0.8,1050,,
+695,GREENBERRI F1,GREENBERRI,4,292,20,"1,450","1,450",0,,,32 GB,1.77,0.8,1050,,
+696,Itel it5607,Itel,4.1,506,49,"1,195","1,198",0,,,,1.8,0.3,2500,,
+697,BlackZone EVEREST,BlackZone,3.9,444,38,779,849,8,,,,1.8,0.3,1000,,
+698,Itel IT5618N,Itel,4.3,15,2,"1,298","1,298",0,,,,2.4,0.3,2500,,
+699,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+700,Micromax X749,Micromax,4.1,"2,568",309,"1,191","1,191",0,,,,2.4,0.3,1750,,
+701,"OPPO A52 (Twilight Black, 128 GB)",OPPO,4.3,"3,774",293,"16,790","16,790",0,6,128,256 GB,6.5,12,5000,Qualcomm Snapdragon 665,
+702,I Kall K3310 Combo Of Two Mobile,I,3.7,"9,697",952,"1,199","1,199",0,,,8 GB,1.8,0.3,800,,
+703,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+704,"APPLE iPhone 12 (Green, 64 GB)",APPLE,4.6,"2,699",234,"77,900","79,900",2,,64,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+705,"realme 6 Pro (Lightning Orange, 64 GB)",realme,4.4,"58,765","6,406","17,999","17,999",0,6,64,256 GB,6.6,64,4300,Snapdragon 720G,"16,500"
+706,Kechaoda K66 Plus,Kechaoda,4,"19,659","1,657",999,"1,049",4,,,32 GB,1.8,0.3,400,,
+707,"SAMSUNG Galaxy A21s (White, 64 GB)",SAMSUNG,4.2,"17,885","1,676","12,999","17,999",27,4,64,512 GB,6.5,48,5000,Exynos 850 Octa Core,"12,150"
+708,"APPLE iPhone 12 Pro (Pacific Blue, 128 GB)",APPLE,4.5,590,45,"1,15,900","1,19,900",3,,128,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+709,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+710,LAVA A1 super,LAVA,4.1,"1,208",90,"1,039","1,039",0,,,32 GB,1.8,0.3,800,,
+711,Kechaoda A 31,Kechaoda,4,128,7,949,"1,175",19,,,,1.44,0.3,800,,
+712,Itel it2161,Itel,4,285,14,849,877,3,,,32 MB,1.8,0.3,1000,,
+713,"OPPO A11K (Flowing Silver, 32 GB)",OPPO,4.2,"5,142",401,"8,490","10,990",22,2,32,256 GB,6.22,13,4230,MediaTek Helio P35 Octa Core,
+714,"SAMSUNG Galaxy M31 (Ocean Blue, 128 GB)",SAMSUNG,4.3,737,46,"19,839","19,839",0,8,128,512 GB,6.4,64,6000,Samsung Exynos 9 Octa 9611,
+715,"REDMI Note 8 Pro (Gamma Green, 64 GB)",REDMI,4.4,"81,005","6,988","16,449","16,880",2,6,64,512 GB,6.53,64,4500,MediaTek Helio G90T,
+716,Forme Duos 1900,Forme,3.8,296,31,980,980,0,,,16 GB,2.8,,1900,NA,
+717,SAMSUNG Metro 313,SAMSUNG,4.2,"1,740",158,"2,285","2,285",0,,,,2.03,0.3,1000,,
+718,Nokia 125 DS 2020,Nokia,3.9,"3,075",213,"2,098","2,098",0,,,,2.4,,1020,MediaTek,
+719,"realme 5 Pro (Sparkling Blue, 128 GB)",realme,4.5,"79,825","7,837","16,999","17,999",5,8,128,256 GB,6.3,48,4035,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz,"15,650"
+720,Kechaoda K108,Kechaoda,4,104,19,"1,775","1,775",0,,,,3.5,1.3,6000,,
+721,"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",SAMSUNG,4.3,"10,931","1,547","23,999","29,999",20,6,128,1 TB,6.7,64,7000,Exynos 9825,"17,500"
+722,Itel it5607,Itel,4.1,506,49,"1,105","1,105",0,,,,1.8,0.3,2500,,
+723,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+724,KARBONN K2 Boom Box,KARBONN,3.9,"7,397",825,839,857,2,,,,1.8,0.08,1000,SC6531DA,
+725,Itel IT5608,Itel,3.9,83,7,"1,125","1,125",0,,,,1.8,0.3,2500,,
+726,Itel IT5608,Itel,3.9,83,7,"1,199","1,199",0,,,,1.8,0.3,2500,,
+727,"Nokia 2.4 (Charcoal Grey, 64 GB)",Nokia,4.1,551,60,"10,399","11,499",9,3,64,512 GB,6.5,13,4500,MediaTek Helio P22,"9,750"
+728,"SAMSUNG Galaxy A12 (White, 128 GB)",SAMSUNG,4.2,"1,045",83,"13,999","14,999",6,4,128,1 TB,6.5,48,5000,Mediatek Helio P35 (MT6765),"13,450"
+729,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+730,I Kall K3312 Combo,I,3.6,"1,880",159,"1,399","1,399",0,,,8 GB,1.8,0.3,800,,
+731,Kechaoda K1,Kechaoda,4,143,12,"1,099","1,199",8,,,,2.8,1.3,2600,,
+732,"SAMSUNG Galaxy A71 (Haze Crush Silver, 128 GB)",SAMSUNG,4.4,"6,022",745,"29,499","34,999",15,8,128,512 GB,6.7,64,4500,Qualcomm SM7150,"16,500"
+733,"I Kall K201 (Dark Blue, 16 GB)",I,3.1,"1,382",128,"4,849","5,299",8,2,16,,6.26,8,3000,,
+734,BlackZone M6,BlackZone,4,81,10,865,949,8,,,32 GB,1.8,0.3,2500,,
+735,KARBONN Kx23,KARBONN,3.8,204,14,"1,175","1,175",0,,,,2.4,0.3,1900,,
+736,Nokia 110 DS 2020,Nokia,4.1,"9,230",721,"1,670","1,670",0,,,32 MB,1.77,1,800,,
+737,Tork T3,Tork,3.7,118,10,879,879,0,,,8 GB,1.8,0.3,2500,,
+738,"Redmi Note 9 Pro (Champagne Gold, 128 GB)",Redmi,4.4,"1,406",83,"18,679","19,792",5,6,128,512 GB,6.67,48,5020,Qualcomm® Snapdragon™ 720G,
+739,"I Kall K 500 (Blue, 64 GB)",I,3,772,76,"6,399","6,649",3,4,64,,6.26,8,3000,,
+740,"Coolpad Mega 5S (Gold, 64 GB)",Coolpad,3.5,260,18,"5,850","5,850",0,4,64,64 GB,5.5,5,2500,OCTA CORE,
+741,"Itel A48 (Gradation Green, 32 GB)",Itel,3.9,252,17,"6,098","6,098",0,2,32,128 GB,6.1,5,3000,Quad Core,
+742,KARBONN K19 Rock,KARBONN,3.9,"2,569",228,894,894,0,,,,1.8,0.3,1750,,
+743,"I Kall K900 (Dark Blue, 64 GB)",I,3,"4,998",540,"5,699","5,699",0,4,64,,5.5,8,3000,,
+744,KARBONN KX26,KARBONN,4,"2,014",202,"1,120","1,120",0,,,32 GB,2.4,0.08,1450,,
+745,KARBONN KX26,KARBONN,4,"2,014",202,"1,120","1,120",0,,,32 GB,2.4,0.08,1450,,
+746,BlackZone S16,BlackZone,3.9,72,9,"1,029","1,099",6,,,32 GB,2.4,0.3,3000,,
+747,Itel IT2173,Itel,4.1,147,15,929,929,0,,,32 GB,1.8,0.3,1000,SC6531E,
+748,GREENBERRI F1,GREENBERRI,4,292,20,"1,450","1,450",0,,,32 GB,1.77,0.8,1050,,
+749,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+750,KARBONN KX1 Indian,KARBONN,4.3,54,4,875,875,0,,,32 GB,1.8,0.08,1000,,
+751,DETEL D1 Guru,DETEL,3.6,"7,659",744,725,749,3,,,,1.8,0.3,1000,,
+752,"REDMI 9 (Sporty Orange, 128 GB)",REDMI,4.2,"1,552",90,"10,214","10,318",1,4,128,,6.53,13,5000,,
+753,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+754,UiSmart Ui06,UiSmart,3.9,34,2,"1,390","1,390",0,,,,1.77,0.3,1050,,
+755,"APPLE iPhone 12 Pro (Pacific Blue, 256 GB)",APPLE,4.5,590,45,"1,25,900","1,29,900",3,,256,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+756,Kechaoda A 31,Kechaoda,4,128,7,949,"1,175",19,,,,1.44,0.3,800,,
+757,Kechaoda A 31,Kechaoda,4,128,7,949,"1,175",19,,,,1.44,0.3,800,,
+758,Micromax X382,Micromax,4,208,14,940,940,0,,,,1.77,0.08,800,,
+759,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+760,I Kall K444,I,3.6,24,2,999,"1,099",9,,,,2.4,0.3,2500,,
+761,"MOTOROLA G9 (Sapphire Blue, 64 GB)",MOTOROLA,4.2,"43,017","4,531","10,999","14,999",26,4,64,512 GB,6.5,48,5000,Qualcomm Snapdragon 662,
+762,KARBONN K19 Rock,KARBONN,3.9,"2,569",228,894,894,0,,,,1.8,0.3,1750,,
+763,"APPLE iPhone 12 (Red, 128 GB)",APPLE,4.6,"2,699",234,"82,900","84,900",2,,128,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+764,Micromax X748,Micromax,4.1,"1,354",154,"1,450","2,499",41,,,,2.4,0.1,2500,,
+765,Kechaoda K9,Kechaoda,4.1,"1,464",151,"1,140","1,140",0,,,16 GB,2.4,0.3,1700,,
+766,Kechaoda K9,Kechaoda,4.1,"1,464",151,"1,120","1,120",0,,,16 GB,2.4,0.3,1700,,
+767,Geotel K9 Flip,Geotel,4,31,0,"1,249","1,349",7,,,,1.7,0.3,1200,,
+768,Kechaoda K102,Kechaoda,4.3,7,0,999,"1,199",16,,,,2.4,0.3,2500,,
+769,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+770,Kechaoda K108,Kechaoda,4,104,19,"1,799","1,799",0,,,,3.5,1.3,6000,,
+771,Itel Power 110,Itel,4,24,2,"1,195","1,195",0,,,32 GB,1.8,0.3,2500,SC6531E,
+772,Grabo HULK,Grabo,3.5,402,36,719,789,8,,,,1.8,0.3,1000,,
+773,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+774,"SAMSUNG M02s (Red, 32 GB)",SAMSUNG,4,209,12,"9,471","9,748",2,3,32,,6.5,13,5000,Qualcomm Snapdragon 450,
+775,"ViVO Y51 (Titanium Sapphire, 128 GB)",ViVO,4.3,"3,127",231,"17,990","21,990",18,8,128,1 TB,6.58,48,5000,Qualcomm Snapdragon 665,"16,500"
+776,"Panasonic P101 (Gold, 16 GB)",Panasonic,4,"9,163",997,"5,199","5,499",5,2,16,128 GB,5.45,8,2500,MT6739WA,
+777,Ismart IS-101 Ferrari,Ismart,4,134,9,"1,390","1,390",0,,,16,1.77,0.3,1200,,
+778,Itel MAGIC 2 MAX,Itel,3.9,27,6,"1,467","1,467",0,,,,2.8,1.3,1900,,
+779,"SAMSUNG Galaxy M30S (Quartz Green, 128 GB)",SAMSUNG,4.3,"4,086",350,"17,490","17,490",0,4,128,,6.4,48,6000,,
+780,Itel Magic2 Max,Itel,4.2,153,12,"1,460","1,497",2,,,32 GB,2.8,1.3,1900,SC6531C,
+781,Itel Muzik110,Itel,4.2,62,4,"1,140","1,149",0,,,,1.8,0.8,1900,1MHz,
+782,Micromax X380,Micromax,3.9,"10,522","1,202","1,050","1,499",29,,,,1.77,0.3,2500,,
+783,Kechaoda K28,Kechaoda,4.1,"1,510",140,"1,160","1,160",0,,,16 GB,2.4,0.3,1700,,
+784,Kechaoda K28,Kechaoda,4.1,"1,510",140,"1,140","1,140",0,,,16 GB,2.4,0.3,1700,,
+785,Kechaoda K28,Kechaoda,4.1,"1,510",140,"1,140","1,140",0,,,,2.4,0.3,1700,,
+786,"SAMSUNG GALAXY M51 (Celestial Black, 128 GB)",SAMSUNG,4.3,894,69,"22,990","22,990",0,6,128,,6.7,64,7000,,
+787,Snexian guru 5500,Snexian,4.3,20,2,925,925,0,,,32 GB,1.8,1.3,3000,,
+788,"Spinup A6 4G (Ice Blue, 16 GB)",Spinup,3.4,219,16,"5,499","5,499",0,2,16,64 GB,5.99,8,3500,Snapdragon,
+789,"APPLE iPhone 12 Pro Max (Graphite, 128 GB)",APPLE,4.6,659,50,"1,25,900","1,29,900",3,,128,,6.7,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+790,"realme 6i (Lunar White, 64 GB)",realme,4.4,"59,080","6,286","12,999","14,999",13,4,64,256 GB,6.5,48,4300,MediaTek Helio G90T,
+791,Muphone M 230,Muphone,4.7,3,0,"1,199","1,199",0,,,,2.8,0.8,1700,,
+792,"ViVO X60 Pro+ (Emperor Blue, 256 GB)",ViVO,4.4,86,17,"69,990","69,990",0,12,256,,6.56,50,4200,Qualcomm Snapdragon 888,"19,500"
+793,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+794,KARBONN KX1,KARBONN,3.9,"1,024",84,796,798,0,,,32 GB,1.8,0.3,800,,
+795,Itel It 5605n,Itel,4.2,"1,242",119,"1,225","1,225",0,,,32 GB,1.77,0.3,2500,,
+796,KARBONN KX80,KARBONN,3.4,62,5,"1,349","1,349",0,,,,2.8,0.3,1450,,
+797,"ViVO Y91i (Ocean Blue, 16 GB)",ViVO,4.3,"38,782","2,765","8,950","8,950",0,2,16,256 GB,6.22,13,4030,MTK Helio P22,
+798,Kechaoda A27,Kechaoda,4.1,"3,121",279,920,920,0,,,16 GB,0.66,,800,,
+799,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+800,Kechaoda K116 Plus,Kechaoda,4,"7,789",627,980,990,1,,,,1.77,0.3,400,,
+801,"SAMSUNG Galaxy M30s (White, 64 GB)",SAMSUNG,4.3,"4,086",350,"14,990","15,290",1,4,64,512 GB,6.4,48,6000,Exynos 9611,
+802,"Nokia 3.4 (Dusk, 64 GB)",Nokia,3.9,119,14,"11,999","13,999",14,4,64,512 GB,6.39,13,4000,Qualcomm Snapdragon 460,"11,350"
+803,"OPPO A15 (Dynamic Black, 32 GB)",OPPO,4.3,294,14,"9,990","12,990",23,3,32,256 GB,6.52,13,4230,MediaTek Helio P35 (MT6765),"9,350"
+804,"Redmi Note 8 (Space Black, 128 GB)",Redmi,4.4,"13,701","1,063","15,750","15,750",0,6,128,512 GB,6.3,48,4000,Qualcomm Snapdragon 665,
+805,"REDMI Note 9 (Shadow Black, 128 GB)",REDMI,4.3,"17,861","1,335","12,999","16,499",21,4,128,512 GB,6.53,48,5020,MediaTek Helio G85,
+806,Micromax J1,Micromax,4.3,10,1,774,794,2,,,,1.77,,600,,
+807,Ssky S-20 Eco,Ssky,3.8,23,1,849,849,0,,,64 GB,1.8,1.3,1000,,
+808,"APPLE iPhone 12 Mini (Green, 256 GB)",APPLE,4.5,"1,097",95,"82,900","84,900",2,,256,,5.4,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+809,Micromax X1i-2017,Micromax,3.9,"1,246",143,999,999,0,,,8 GB,2.4,0.8,1300,,
+810,Kechaoda K 06,Kechaoda,3.9,121,10,"1,140","1,140",0,,,,1.8,1.3,1000,,
+811,Micromax X752,Micromax,4.2,98,17,"1,290","1,297",0,,,,2.4,0.3,1800,,
+812,"ViVO X50 Pro (Alpha Grey, 256 GB)",ViVO,4.5,"1,961",300,"49,990","54,990",9,8,256,,6.56,48,4315,Qualcomm Snapdragon 765G,"21,500"
+813,"Honor 9S (Black, 32 GB)",Honor,3.8,"21,238","2,914","6,499","7,999",18,2,32,512 GB,5.45,8,3020,MediaTek Helio P22 (MT6762R) Octa Core,"5,950"
+814,"APPLE iPhone 12 (Black, 64 GB)",APPLE,4.6,"2,699",234,"77,900","79,900",2,,64,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+815,Kechaoda K9,Kechaoda,3.9,35,0,"1,130","1,289",12,,,,2.4,0.3,2400,,
+816,"REDMI Note 10 (Aqua Green, 128 GB)",REDMI,4.2,709,41,"14,994","15,500",3,6,128,512 GB,6.43,48,5000,Qualcomm Snapdragon 678,
+817,BlackZone B310,BlackZone,3.9,"1,562",122,779,849,8,,,32 GB,1.8,0.3,1000,,
+818,"REDMI Note 10 (Shadow Black, 128 GB)",REDMI,4.2,709,41,"15,200","15,500",1,6,128,512 GB,6.43,48,5000,Qualcomm Snapdragon 678,
+819,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+820,"Huawei Y9 Prime 2019 (Sapphire Blue, 128 GB)",Huawei,4.3,"1,063",111,"16,899","19,990",15,4,128,,6.59,16,4000,HiSilicon Kirin 710F AI Chipset with Dual-NPU,"15,650"
+821,BlackZone B310,BlackZone,3.9,"1,562",122,779,849,8,,,32 GB,1.8,0.3,1000,,
+822,Kechaoda K28,Kechaoda,4.1,"1,510",140,"1,140","1,140",0,,,16 GB,2.4,0.3,1700,,
+823,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+824,Kechaoda K28,Kechaoda,4.1,"1,510",140,"1,140","1,140",0,,,16 GB,2.4,0.3,1700,,
+825,Good One G3 MINI,Good,3.6,79,11,"1,399","1,399",0,,,32 GB,0.66,,550,,
+826,BlackZone M6,BlackZone,4,81,10,865,949,8,,,32 GB,1.8,0.3,2500,,
+827,Lava Pulse1- with contactless Talking Thermometer,Lava,4,65,7,"1,595","2,200",27,,,32 GB,2.4,0.3,1800,,"1,050"
+828,"OPPO A52 (Stream White, 128 GB)",OPPO,4.3,"3,773",293,"16,990","19,990",15,6,128,256 GB,6.5,12,5000,Qualcomm Snapdragon 665,"15,650"
+829,"I Kall K201 (Dark Blue, 16 GB)",I,3.1,"1,382",128,"4,849","5,299",8,2,16,,6.26,8,3000,,
+830,Tork Max2,Tork,4.4,17,0,"1,249","1,249",0,,,32 GB,2.8,1.3,2500,,
+831,Tork Max2,Tork,4.4,17,0,"1,249","1,249",0,,,,2.8,1.3,2500,,
+832,Micromax X379,Micromax,3.8,4,0,989,989,0,,,8 GB,1.77,0.3,1000,,
+833,"I Kall K 500 (Blue, 64 GB)",I,3,772,76,"6,399","6,649",3,4,64,,6.26,8,3000,,
+834,"Redmi 8A (Midnight Black, 32 GB)",Redmi,4.3,"1,35,611","10,600","8,298","8,298",0,3,32,512 GB,6.22,12,5000,Qualcomm Snapdragon 439,
+835,LAVA H1 Hero 600,LAVA,3.9,"1,318",111,738,799,7,,,,1.8,,600,,
+836,SAMSUNG Guru FM Plus,SAMSUNG,4.2,"21,991","2,023","1,560","1,598",2,,,,1.5,,800,,
+837,"SAMSUNG Galaxy M02 (Gray, 32 GB)",SAMSUNG,4,269,30,"8,076","8,193",1,3,32,,6.55,13,5000,MediaTek MT6739,
+838,"SAMSUNG Galaxy S21 Plus (Phantom Violet, 256 GB)",SAMSUNG,4.5,69,4,"80,999","1,04,999",22,8,256,,6.7,64,4800,Exynos 2100,"16,500"
+839,"I Kall K900 (Dark Blue, 64 GB)",I,3,"4,998",540,"5,699","5,699",0,4,64,,5.5,8,3000,,
+840,KARBONN KX19,KARBONN,4,161,17,899,899,0,,,,1.8,0.3,1750,,
+841,KARBONN KX19,KARBONN,4,161,17,925,925,0,,,,1.8,0.3,1750,,
+842,I Kall K555,I,3.7,"1,199",112,"1,199","1,279",6,,,,2.8,2,3000,,
+843,"I Kall K250 (Blue, 64 GB)",I,3,493,32,"6,499","6,499",0,4,64,,6.53,13,4000,,
+844,"Alcatel 5V (Spectrum Black, 32 GB)",Alcatel,4.4,177,38,"6,990","6,999",0,3,32,,6.2,16,4000,,
+845,Muphone M230,Muphone,3.6,125,14,"1,195","1,195",0,,,32 GB,2.8,0.3,1700,,
+846,"REDMI Note 9 (Arctic White, 64 GB)",REDMI,4.3,"17,847","1,332","10,999","14,999",26,4,64,512 GB,6.53,48,5020,MediaTek Helio G85,
+847,I Kall K 60,I,3.8,451,48,"1,899","1,899",0,,,,2.4,0.3,1500,,
+848,"LAVA Z1 (Coral Red, 16 GB)",LAVA,0,0,0,"5,199","5,999",13,2,16,256 GB,5,5,3100,MediaTek Helio A20,
+849,I Kall K65,I,3.4,"3,710",334,"1,599","1,629",1,,,,2.4,0.3,1000,,
+850,Ssky S60 Max,Ssky,3.4,33,4,890,890,0,,,64 GB,1.8,0.3,2400,,
+851,"REDMI Note 9 (Aqua Green, 64 GB)",REDMI,4.3,"17,847","1,332","10,999","14,999",26,4,64,512 GB,6.53,48,5020,MediaTek Helio G85,
+852,Itel IT5026,Itel,3.8,12,2,"1,199","1,249",4,,,,2.4,2,1200,,
+853,"I Kall K201 (Dark Blue, 16 GB)",I,3.1,"1,382",128,"4,849","5,299",8,2,16,,6.26,8,3000,,
+854,KARBONN Kphone X,KARBONN,3.9,71,5,"1,275","1,275",0,,,,2.4,0.3,1900,,
+855,"SAMSUNG Galaxy A21s (Black, 64 GB)",SAMSUNG,4.2,"6,490",608,"14,999","19,999",25,6,64,512 GB,6.5,48,5000,Exynos 850 Octa Core,"14,450"
+856,Kechaoda K50,Kechaoda,3.9,53,5,985,985,0,,,,1.54,,800,,
+857,Kechaoda K50,Kechaoda,3.9,53,5,995,995,0,,,,1.54,,800,,
+858,BlackBear B5 Bucket Combo of Two Mobiles,BlackBear,3.8,26,3,"1,549","1,549",0,,,,1.8,1.8,1100,,
+859,"I Kall K 500 (Blue, 64 GB)",I,3,772,76,"6,399","6,649",3,4,64,,6.26,8,3000,,
+860,"APPLE iPhone 12 Pro (Graphite, 128 GB)",APPLE,4.5,589,45,"1,15,900","1,19,900",3,,128,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+861,Kechaoda K123,Kechaoda,4.1,216,36,"1,749","1,799",2,,,,2.8,2,600,,
+862,Kechaoda A32,Kechaoda,3.7,64,7,949,"1,175",19,,,,1.44,0.3,800,,
+863,"I Kall K900 (Dark Blue, 64 GB)",I,3,"4,998",540,"5,699","5,699",0,4,64,,5.5,8,3000,,
+864,Itel it5607,Itel,4.1,506,49,"1,198","1,198",0,,,,1.8,0.3,2500,,
+865,"REDMI Note 8 Pro (Shadow Black, 64 GB)",REDMI,4.4,"81,005","6,988","15,990","15,990",0,6,64,512 GB,6.53,64,4500,MediaTek Helio G90T,
+866,"REDMI Note 9 Pro Max (Glacier White, 64 GB)",REDMI,4.4,"30,518","2,450","18,490","18,490",0,6,64,512 GB,6.67,64,5020,Qualcomm Snapdragon 720G,
+867,KARBONN KX5,KARBONN,4,245,23,"1,075","1,075",0,,,,1.8,0.3,2500,,
+868,"Redmi Note 8 (Space Black, 64 GB)",Redmi,4.4,"50,713","3,704","13,999","13,999",0,4,64,512 GB,6.3,48,4000,Qualcomm Snapdragon 665,
+869,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+870,Kechaoda K109,Kechaoda,4.2,38,7,995,995,0,,,,2.4,0.3,1700,,
+871,I Kall K3312 Combo,I,3.6,"1,881",159,"1,399","1,399",0,,,,1.8,0.3,800,,
+872,"APPLE iPhone 12 (White, 256 GB)",APPLE,4.6,"2,699",234,"92,900","94,900",2,,256,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+873,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+874,KARBONN K24+,KARBONN,3.9,"4,187",436,"1,175","1,175",0,,,16 GB,2.4,0.3,1600,,
+875,"SAMSUNG Galaxy A71 (Prism Crush Black, 128 GB)",SAMSUNG,4.4,"6,023",745,"29,990","29,990",0,8,128,512 GB,6.7,64,4500,Qualcomm SM7150,
+876,Micromax X379,Micromax,3.8,4,0,989,989,0,,,8 GB,1.77,0.3,1000,,
+877,BlackZone B-350,BlackZone,3.8,310,41,799,869,8,,,,1.8,0.3,1000,,
+878,Infocus Hero 1,Infocus,3.6,14,3,819,819,0,,,32 MB,1.77,,800,No,
+879,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+880,BlackZone PORSCHE 911,BlackZone,3.8,198,11,"1,375","1,420",3,,,,1.44,0.3,800,,
+881,Grabo 220,Grabo,3.7,123,13,749,819,8,,,,1.8,0.3,1100,,
+882,"Redmi Note 6 Pro (Blue, 64 GB)",Redmi,4.5,"1,26,500","11,018","17,999","17,999",0,6,64,256 GB,6.26,12,4000,Qualcomm Snapdragon 636,
+883,MTR Ferrari,MTR,4.1,"4,107",303,"1,299","1,299",0,,,,1.77,0.3,800,,
+884,"SAMSUNG Galaxy M21 (Raven Black, 64 GB)",SAMSUNG,4.3,"6,361",481,"14,499","15,999",9,4,64,512 GB,6.4,48,6000,Exynos 9611-Octa Core processor,
+885,Kechaoda K-55 Plus,Kechaoda,4,"8,252",751,949,949,0,,,,1.77,0.3,850,,
+886,Itel Muzik110,Itel,4.2,62,4,999,"1,030",3,,,,1.8,0.8,1900,1MHz,
+887,Itel Magic2 Max,Itel,4.2,153,12,"1,499","1,499",0,,,32 GB,2.8,1.3,1900,SC6531C,
+888,GreenBerry M2 Mini,GreenBerry,4.1,54,12,"1,299","1,399",7,,,,2.79,,550,,
+889,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+890,KARBONN K Pebble,KARBONN,4,"2,119",284,"1,620","1,620",0,,,,2.4,0.3,800,,
+891,"APPLE iPhone 12 Pro (Graphite, 256 GB)",APPLE,4.5,590,45,"1,25,900","1,29,900",3,,256,,6.1,12,,A14 Bionic Chip with Next Generation Neural Engine,"16,500"
+892,Itel Magic 2,Itel,4.1,71,8,"1,495","1,495",0,,,32 GB,2.4,1.3,1150,na,
+893,I Kall K16 New Combo of Two Mobiles,I,3.6,846,70,"1,299","1,299",0,,,,1.8,0.3,800,,
+894,"OPPO A15 (Rainbow Silver, 32 GB)",OPPO,4.1,105,9,"9,618","9,618",0,2,32,,6.52,13,4230,,
+895,"OPPO A5 2020 (Mirror Black, 64 GB)",OPPO,4.4,"2,908",233,"14,875","14,875",0,3,64,,6.5,12,5000,Qualcomm Snapdragon 665,
+896,MU M370,MU,4.3,400,22,999,999,0,,,,1.44,0.3,700,,
+897,KARBONN K5 Plus,KARBONN,4,"1,120",101,888,"1,090",18,,,,1.8,0.8,1750,,
+898,Itel Power 400,Itel,4.1,"2,581",256,"1,327","1,327",0,,,32 GB,2.4,0.3,2500,,
+899,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+900,"REDMI 9 Power (Electric Green, 128 GB)",REDMI,4.2,"2,358",178,"12,999","16,999",23,6,128,,6.53,48,6000,Qualcomm® Snapdragon™ 662,
+901,Salora Vishaal,Salora,3.8,27,3,924,924,0,,,,2.4,1.3,2700,,
+902,Infocus POWER 2,Infocus,3.8,146,19,"1,270","1,270",0,,,,2.4,0.5,2500,,
+903,BlackBear i7,BlackBear,3.7,"3,190",324,"1,649","1,649",0,,,32 GB,2.4,1.8,1450,,
+904,KARBONN KX1,KARBONN,3.9,"1,024",84,875,875,0,,,,1.8,0.3,800,,
+905,Itel Power 110,Itel,4,24,2,"1,199","1,199",0,,,32 GB,1.8,0.3,2500,SC6531E,
+906,"APPLE iPhone 11 (Yellow, 64 GB)",APPLE,4.6,"49,809","3,795","51,999","54,900",5,,64,,6.1,12,,A13 Bionic Chip,"16,500"
+907,BlackZone M5,BlackZone,4,75,3,865,949,8,,,32 GB,1.8,0.3,2500,,
+908,Tork X9,Tork,3.7,90,9,"1,198","1,198",0,,,8 GB,2.8,0.3,1800,,
+909,I Kall K 666,I,3.8,363,37,"1,199","1,299",7,,,,2.8,2,3000,,
+910,Kechaoda K66 Plus,Kechaoda,4,"19,659","1,657","1,099","1,099",0,,,,1.77,0.3,400,,
+911,I Kall K22 New,I,3.5,"3,990",477,669,759,11,,,,1.8,0.3,800,,
+912,"Redmi Note 7 (Onyx Black, 64 GB)",Redmi,4.5,"1,78,222","16,582","13,490","13,490",0,4,64,256 GB,6.3,12,4000,Qualcomm Snapdragon 660 AIE,
+913,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+914,"Tecno Spark 5 Pro (Seabed Blue, 64 GB)",Tecno,4.3,293,14,"11,390","11,390",0,4,64,,6.6,16,5000,,
+915,LAVA A5,LAVA,4.1,"5,487",543,"1,246","1,246",0,,,32 GB,2.4,0.3,1000,,
+916,Tork T3,Tork,3.7,118,10,879,879,0,,,8 GB,1.8,0.3,2500,,
+917,"ViVO V17 (Midnight Ocean Black, 128 GB)",ViVO,4.5,"8,418",776,"27,990","27,990",0,8,128,256 GB,6.44,48,4500,Qualcomm Snapdragon 675AIE,"16,500"
+918,KARBONN KX 10i,KARBONN,3.9,25,2,799,799,0,,,32 GB,1.8,,800,,
+919,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+920,BlackZone B310,BlackZone,3.9,"1,562",122,779,849,8,,,32 GB,1.8,0.3,1000,,
+921,I Kall K22 Combo of Two Mobiles,I,3.4,352,25,"1,299","1,299",0,,,,1.8,0.3,800,,
+922,Easyfone Star,Easyfone,4.2,427,165,"3,499","4,990",29,,,8 GB,1.7,,800,,
+923,"SAMSUNG Galaxy A21s (Silver, 128 GB)",SAMSUNG,4.2,"6,493",608,"18,999","18,999",0,6,128,512 GB,6.5,48,5000,Exynos 850 Octa Core,"16,500"
+924,"ViVO Y15 (Aqua Blue, 64 GB)",ViVO,4.4,"30,805","2,290","15,990","15,990",0,4,64,256 GB,6.35,13,5000,MediaTek Helio P22,"15,150"
+925,Kechaoda K13,Kechaoda,4.1,82,4,915,"1,149",20,,,16 GB,1.8,0.3,1000,,
+926,Intex Eco 105vx,Intex,4.1,81,6,"1,025","1,025",0,,,,1.8,0.3,1050,,
+927,"Micromax IN 1 (Purple, 64 GB)",Micromax,4.3,"1,683",336,"9,999","14,999",33,4,64,256 GB,6.67,48,5000,MediaTek Helio G80,"9,350"
+928,"Micromax IN 1 (Blue, 64 GB)",Micromax,4.3,"1,683",336,"9,999","14,999",33,4,64,256 GB,6.67,48,5000,MediaTek Helio G80,"9,350"
+929,MTR Ferrari,MTR,4.1,"4,107",303,"1,299","1,299",0,,,,1.77,0.3,800,,
+930,MTR Ferrari,MTR,4.1,"4,107",303,"1,299","1,299",0,,,,1.77,0.3,800,,
+931,Itel Magic 1,Itel,4.2,635,81,"1,348","1,348",0,,,,2.4,0.3,1200,,
+932,I Kall K44,I,3.1,25,2,669,679,1,,,,1.8,0.3,800,,
+933,"Redmi K20 (Glacier Blue, 128 GB)",Redmi,4.5,"50,471","5,388","24,999","24,999",0,6,128,,6.39,48,4000,Qualcomm Snapdragon 730,"16,500"
+934,"Spinup A7 Pro (Fusion Blue, 16 GB)",Spinup,3.5,35,1,"5,490","5,490",0,2,16,64 GB,5.5,8,3000,Snapdragon,
+935,KARBONN Kphone X,KARBONN,3.9,71,5,"1,299","1,299",0,,,,2.4,0.3,1900,,
+936,SAMSUNG Guru Plus B110,SAMSUNG,4.1,405,40,"1,579","1,579",0,,,,1.5,,800,,
+937,"realme X2 (Pearl White, 64 GB)",realme,4.5,"36,381","4,354","17,999","17,999",0,4,64,,6.4,64,4000,Qualcomm Snapdragon 730G,"16,500"
+938,"Nokia C3 (Sand, 16 GB)",Nokia,3.9,"1,037",80,"7,199","8,499",15,2,16,128 GB,5.99,8,3040,SC9863A Octa Core,"6,650"
+939,GIVA G1 BLACK & GREEN,GIVA,3.4,896,63,649,649,0,,,,1.8,0.3,1100,,
+940,Geotel K9 Flip,Geotel,4,31,0,"1,249","1,349",7,,,,1.7,0.8,1200,,
+941,kytes Tarzan,kytes,0,0,0,999,999,0,,,,2.4,0.3,2200,,
+942,GreenBerry M3 Edition X,GreenBerry,3.5,117,12,"1,799","1,899",5,,,,1.44,2,1150,,
+943,GIVA G4,GIVA,3.4,204,23,639,639,0,,,,1.8,0.3,1100,,
+944,"SAMSUNG Galaxy S21 Plus (Phantom Silver, 128 GB)",SAMSUNG,4.5,69,4,"76,999","1,00,999",23,8,128,,6.7,64,4800,Exynos 2100,"16,500"
+945,"Itel A25 (Gradation sea Blue, 16 GB)",Itel,4.2,133,13,"4,748","4,780",0,1,16,32 GB,5,5,3020,Cortex A53 architecture (Quad core),
+946,"MOTOROLA Razr (Black, 128 GB)",MOTOROLA,3.8,116,5,"74,999","1,49,999",50,6,128,,6.2,16,2510,SDM710,"16,500"
+947,Itel It 2190,Itel,4.1,"1,457",135,"1,119","1,125",0,,,32 GB,1.8,0.3,1000,,
+948,BlackZone TURBO 350,BlackZone,3.8,4,1,849,919,7,,,32 GB,1.8,0.3,2500,,
+949,"Apple iPhone SE (White, 256 GB) (Includes EarPods, Power Adapter)",Apple,4.5,"98,234","8,353","47,999","54,900",12,,256,,4.7,12,,A13 Bionic Chip with 3rd Gen Neural Engine,"16,500"
+950,KARBONN K1 Indian,KARBONN,3.6,174,16,899,899,0,,,16 GB,1.8,0.3,800,,
+951,KARBONN K1 Indian,KARBONN,3.8,121,14,875,875,0,,,,1.8,0.3,800,,
+952,"POCO F1 (Steel Blue, 256 GB)",POCO,4.5,"27,854","3,280","30,999","30,999",0,8,256,256 GB,6.18,12,4000,Qualcomm Snapdragon 845,"16,500"
+953,Itel It 5260N,Itel,3.9,49,4,"1,440","1,440",0,,,,2.4,0.3,1900,,
+954,"ViVO V11 (Starry Night Black, 64 GB)",ViVO,4.5,"17,945","1,750","24,990","24,990",0,6,64,256 GB,6.3,16,3315,MediaTek P60 Octa Core 2.0 GHz,"16,500"
+955,"REDMI Note 8 Pro (Shadow Black, 128 GB)",REDMI,4.4,"12,048","1,055","19,999","19,999",0,8,128,512 GB,6.53,64,4500,MediaTek Helio G90T,"16,500"
+956,Micromax X748,Micromax,4.1,"1,354",154,"1,325","1,325",0,,,,2.4,0.1,2500,,
+957,BlackZone TURBO 352,BlackZone,3.6,11,1,849,919,7,,,32 GB,1.8,0.3,2500,,
+958,BlackZone RANGER,BlackZone,3.7,378,31,749,819,8,,,,1.8,,1000,,
+959,"SAMSUNG Galaxy S10 Lite (Prism Black, 512 GB)",SAMSUNG,4.5,"12,583","3,035","45,999","51,000",9,8,512,1 TB,6.7,48,4500,Qualcomm Snapdragon 855 (SM8150),"16,500"
